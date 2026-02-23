@@ -1,0 +1,98 @@
+
+
+
+
+
+===== LOG START 2026-02-22T09:34:00.465Z pid=3009422 =====
+
+
+
+
+[2026-02-22T09:34:00.466Z] Starting the bot...
+[2026-02-22T09:34:00.513Z] wallet address 0xbEd313808B26F2873D0e2BE946DB614E8477424C
+[CLOB Client] request error {"status":400,"statusText":"Bad Request","data":{"error":"Could not create api key"},"config":{"transitional":{"silentJSONParsing":true,"forcedJSONParsing":true,"clarifyTimeoutError":false},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1,"env":{},"headers":{"Accept":"*/*","Content-Type":"application/json","POLY_ADDRESS":"0xbEd313808B26F2873D0e2BE946DB614E8477424C","POLY_SIGNATURE":"0xde468143b429bc820367a8f2ad4cf9d3e8cb656bad68bc2bccfbf0939bd27ea624c44bc95456c56357b61b3fd9b30af09e73337669395e6e32ec5a9f17d29f311b","POLY_TIMESTAMP":"1771752840","POLY_NONCE":"0","User-Agent":"@polymarket/clob-client","Connection":"keep-alive"},"method":"post","url":"https://clob.polymarket.com/auth/api-key","params":{}}}
+[2026-02-22T09:34:00.713Z] createCredential error: ENOENT: no such file or directory, open '/root/git_promote/polmarket-arbitrage-gabagool-fork/src/data/credential.json'
+
+
+
+
+
+===== LOG START 2026-02-22T09:37:43.571Z pid=3010073 =====
+
+
+
+
+[2026-02-22T09:37:43.572Z] Starting the bot...
+[2026-02-22T09:37:43.617Z] wallet address 0xbEd313808B26F2873D0e2BE946DB614E8477424C
+[CLOB Client] request error {"status":400,"statusText":"Bad Request","data":{"error":"Could not create api key"},"config":{"transitional":{"silentJSONParsing":true,"forcedJSONParsing":true,"clarifyTimeoutError":false},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1,"env":{},"headers":{"Accept":"*/*","Content-Type":"application/json","POLY_ADDRESS":"0xbEd313808B26F2873D0e2BE946DB614E8477424C","POLY_SIGNATURE":"0xf492eb505a1aeea7a559a14171fbffff9b8e96dfd54f67323b94fdc5144f78de547af2da09c2bda51cdcd19c8ad927c59926c319070945cc676906d67db705261c","POLY_TIMESTAMP":"1771753063","POLY_NONCE":"0","User-Agent":"@polymarket/clob-client","Connection":"keep-alive"},"method":"post","url":"https://clob.polymarket.com/auth/api-key","params":{}}}
+[2026-02-22T09:37:43.806Z] Could not create or derive API key
+[2026-02-22T09:37:43.811Z] wallet address 0xbEd313808B26F2873D0e2BE946DB614E8477424C
+[CLOB Client] request error {"status":400,"statusText":"Bad Request","data":{"error":"Could not create api key"},"config":{"transitional":{"silentJSONParsing":true,"forcedJSONParsing":true,"clarifyTimeoutError":false},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1,"env":{},"headers":{"Accept":"*/*","Content-Type":"application/json","POLY_ADDRESS":"0xbEd313808B26F2873D0e2BE946DB614E8477424C","POLY_SIGNATURE":"0xf492eb505a1aeea7a559a14171fbffff9b8e96dfd54f67323b94fdc5144f78de547af2da09c2bda51cdcd19c8ad927c59926c319070945cc676906d67db705261c","POLY_TIMESTAMP":"1771753063","POLY_NONCE":"0","User-Agent":"@polymarket/clob-client","Connection":"keep-alive"},"method":"post","url":"https://clob.polymarket.com/auth/api-key","params":{}}}
+
+
+
+
+
+===== LOG START 2026-02-22T09:42:24.854Z pid=3010873 =====
+
+
+
+
+[2026-02-22T09:42:24.855Z] Starting the bot...
+[2026-02-22T09:42:24.899Z] wallet address 0xbEd313808B26F2873D0e2BE946DB614E8477424C
+[CLOB Client] request error {"status":400,"statusText":"Bad Request","data":{"error":"Could not create api key"},"config":{"transitional":{"silentJSONParsing":true,"forcedJSONParsing":true,"clarifyTimeoutError":false},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1,"env":{},"headers":{"Accept":"*/*","Content-Type":"application/json","POLY_ADDRESS":"0xbEd313808B26F2873D0e2BE946DB614E8477424C","POLY_SIGNATURE":"0x81470b10be6c3ad46b8c3a123da864e32d0e7f5628c12d98a93a0f5bfcb7e9121f25bdbd61094f9ce1ea61ca31bf65d441213fa5ab0a215da3094e928f0222911c","POLY_TIMESTAMP":"1771753344","POLY_NONCE":"0","User-Agent":"@polymarket/clob-client","Connection":"keep-alive"},"method":"post","url":"https://clob.polymarket.com/auth/api-key","params":{}}}
+[2026-02-22T09:42:25.132Z] Credential created successfully
+[2026-02-22T09:42:25.135Z] Credentials ready
+[2026-02-22T09:42:25.140Z] Approving USDC allowances to Polymarket contracts...
+[2026-02-22T09:42:26.005Z] Approving USDC allowances for address: 0xbEd313808B26F2873D0e2BE946DB614E8477424C, chainId: 137
+[2026-02-22T09:42:26.005Z] RPC: https://rpc-mainnet.matic.quiknode.pro
+[2026-02-22T09:42:26.005Z] USDC Contract: 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174
+[2026-02-22T09:42:26.005Z] ConditionalTokens Contract: 0x4D97DCd97eC945f40cF65F87097ACe5EA0476045
+[2026-02-22T09:42:26.005Z] Exchange Contract: 0x4bFb41d5B3570DeFd03C39a9A4D8dE6Bd8B8982E
+[2026-02-22T09:42:26.385Z] Current CTF allowance: 0, setting to MaxUint256...
+[2026-02-22T09:42:27.261Z] Failed to approve USDC allowances: insufficient funds for intrinsic transaction cost [ See: https://links.ethers.org/v5-errors-INSUFFICIENT_FUNDS ] (error={"reason":"processing response error","code":"SERVER_ERROR","body":"{\"jsonrpc\":\"2.0\",\"id\":56,\"error\":{\"code\":-32000,\"message\":\"insufficient funds for gas * price + value: balance 0, tx cost 44129124458400000, overshot 44129124458400000\"}}\n","error":{"code":-32000},"requestBody":"{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f8b381898085335f81021485335f81021483030d40942791bca1f2de4661ed88a30c99a7a9449aa8417480b844095ea7b30000000000000000000000004d97dcd97ec945f40cf65f87097ace5ea0476045ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a0d2509486ded9be13f8554853d3ae1568f7ce865b0cb3357e039c1dc7c18eb288a032af839bcc03a8cbc2b4a3b1977074e4bf5cf929d1b8aabd3e144c950f86c07e\"],\"id\":56,\"jsonrpc\":\"2.0\"}","requestMethod":"POST","url":"https://rpc-mainnet.matic.quiknode.pro"}, method="sendTransaction", transaction="0x02f8b381898085335f81021485335f81021483030d40942791bca1f2de4661ed88a30c99a7a9449aa8417480b844095ea7b30000000000000000000000004d97dcd97ec945f40cf65f87097ace5ea0476045ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a0d2509486ded9be13f8554853d3ae1568f7ce865b0cb3357e039c1dc7c18eb288a032af839bcc03a8cbc2b4a3b1977074e4bf5cf929d1b8aabd3e144c950f86c07e", code=INSUFFICIENT_FUNDS, version=providers/5.8.0)
+[2026-02-22T09:42:27.261Z] Continuing without allowances - orders may fail
+[2026-02-22T09:42:27.479Z] ═══════════════════════════════════════
+[2026-02-22T09:42:27.479Z] 💰 WALLET BALANCE & ALLOWANCE
+[2026-02-22T09:42:27.479Z] ═══════════════════════════════════════
+[2026-02-22T09:42:27.479Z] USDC Balance: 0.000000
+[2026-02-22T09:42:27.479Z] USDC Allowance: 0.000000
+[2026-02-22T09:42:27.479Z] Available: 0.000000 (Balance: 0.000000, Allowance: 0.000000)
+[2026-02-22T09:42:27.479Z] ═══════════════════════════════════════
+[2026-02-22T09:42:27.479Z] USDC gate: available=0.000000 (balance=0.000000, allowance=0.000000), required>=1
+
+===== LOG END 2026-02-22T09:42:30.193Z pid=3010873 =====
+
+
+
+
+
+===== LOG START 2026-02-22T09:43:36.896Z pid=3011185 =====
+
+
+
+
+[2026-02-22T09:43:36.897Z] Starting the bot...
+[2026-02-22T09:43:36.941Z] wallet address 0xbEd313808B26F2873D0e2BE946DB614E8477424C
+[CLOB Client] request error {"status":400,"statusText":"Bad Request","data":{"error":"Could not create api key"},"config":{"transitional":{"silentJSONParsing":true,"forcedJSONParsing":true,"clarifyTimeoutError":false},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1,"env":{},"headers":{"Accept":"*/*","Content-Type":"application/json","POLY_ADDRESS":"0xbEd313808B26F2873D0e2BE946DB614E8477424C","POLY_SIGNATURE":"0x7fa551781522e088f032168a3e4748609134f421a0e2038b63cca6fcea2e3fea0a4918f9c85280e35d5f973a2e20bfe6e30823a533a653636efe7fc6096f98cc1c","POLY_TIMESTAMP":"1771753416","POLY_NONCE":"0","User-Agent":"@polymarket/clob-client","Connection":"keep-alive"},"method":"post","url":"https://clob.polymarket.com/auth/api-key","params":{}}}
+[2026-02-22T09:43:37.168Z] Credential created successfully
+[2026-02-22T09:43:37.170Z] Credentials ready
+[2026-02-22T09:43:37.175Z] Approving USDC allowances to Polymarket contracts...
+[2026-02-22T09:43:37.891Z] Approving USDC allowances for address: 0xbEd313808B26F2873D0e2BE946DB614E8477424C, chainId: 137
+[2026-02-22T09:43:37.892Z] RPC: https://rpc-mainnet.matic.quiknode.pro
+[2026-02-22T09:43:37.892Z] USDC Contract: 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174
+[2026-02-22T09:43:37.892Z] ConditionalTokens Contract: 0x4D97DCd97eC945f40cF65F87097ACe5EA0476045
+[2026-02-22T09:43:37.892Z] Exchange Contract: 0x4bFb41d5B3570DeFd03C39a9A4D8dE6Bd8B8982E
+[2026-02-22T09:43:38.277Z] Current CTF allowance: 0, setting to MaxUint256...
+[2026-02-22T09:43:39.166Z] Failed to approve USDC allowances: insufficient funds for intrinsic transaction cost [ See: https://links.ethers.org/v5-errors-INSUFFICIENT_FUNDS ] (error={"reason":"processing response error","code":"SERVER_ERROR","body":"{\"jsonrpc\":\"2.0\",\"id\":56,\"error\":{\"code\":-32000,\"message\":\"insufficient funds for gas * price + value: balance 0, tx cost 38037086136600000, overshot 38037086136600000\"}}\n","error":{"code":-32000},"requestBody":"{\"method\":\"eth_sendRawTransaction\",\"params\":[\"0x02f8b3818980852c47ef5e9b852c47ef5e9b83030d40942791bca1f2de4661ed88a30c99a7a9449aa8417480b844095ea7b30000000000000000000000004d97dcd97ec945f40cf65f87097ace5ea0476045ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a022d80ceefdda15f7a363bbb353133c4741e34cdb7d9ed79f6b2573403adf2beea05be5b4c924e98efdfcb812765a99533dc0b16b608a222e92c87cdf16a4366a56\"],\"id\":56,\"jsonrpc\":\"2.0\"}","requestMethod":"POST","url":"https://rpc-mainnet.matic.quiknode.pro"}, method="sendTransaction", transaction="0x02f8b3818980852c47ef5e9b852c47ef5e9b83030d40942791bca1f2de4661ed88a30c99a7a9449aa8417480b844095ea7b30000000000000000000000004d97dcd97ec945f40cf65f87097ace5ea0476045ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc001a022d80ceefdda15f7a363bbb353133c4741e34cdb7d9ed79f6b2573403adf2beea05be5b4c924e98efdfcb812765a99533dc0b16b608a222e92c87cdf16a4366a56", code=INSUFFICIENT_FUNDS, version=providers/5.8.0)
+[2026-02-22T09:43:39.167Z] Continuing without allowances - orders may fail
+[2026-02-22T09:43:39.393Z] ═══════════════════════════════════════
+[2026-02-22T09:43:39.394Z] 💰 WALLET BALANCE & ALLOWANCE
+[2026-02-22T09:43:39.394Z] ═══════════════════════════════════════
+[2026-02-22T09:43:39.394Z] USDC Balance: 0.000000
+[2026-02-22T09:43:39.394Z] USDC Allowance: 0.000000
+[2026-02-22T09:43:39.394Z] Available: 0.000000 (Balance: 0.000000, Allowance: 0.000000)
+[2026-02-22T09:43:39.394Z] ═══════════════════════════════════════
+[2026-02-22T09:43:39.394Z] USDC gate: available=0.000000 (balance=0.000000, allowance=0.000000), required>=1
+
+===== LOG END 2026-02-22T09:43:41.490Z pid=3011185 =====

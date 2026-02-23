@@ -1,0 +1,1705 @@
+[2026-02-04T09:30:03.775Z] ========================================
+[2026-02-04T09:30:03.775Z] NEW MARKET: btc-updown-15m-1770197400
+[2026-02-04T09:30:03.775Z] STARTING BALANCE: $528.50
+[2026-02-04T09:30:03.980Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.40)
+[2026-02-04T09:30:03.980Z]    📝 POST: 10 @ 0.44
+[2026-02-04T09:30:04.231Z]    ✅ FILLED: 10/10 @ 0.44
+[2026-02-04T09:30:04.232Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:04.232Z]    Position: UP=0, DOWN=10 | Balanced: 0 | Cost: $4.40 | Settlement: $0.00 | P&L: $-4.40 | Remaining: $524.10
+[2026-02-04T09:30:04.272Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.50)
+[2026-02-04T09:30:04.272Z]    📝 POST: 10 @ 0.55
+[2026-02-04T09:30:04.523Z]    ✅ FILLED: 10/10 @ 0.55
+[2026-02-04T09:30:04.524Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:04.524Z]    Position: UP=10, DOWN=10 | Balanced: 10 | Cost: $9.90 | Settlement: $10.00 | P&L: $0.10 | Remaining: $518.60
+[2026-02-04T09:30:04.534Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.40)
+[2026-02-04T09:30:04.534Z]    📝 POST: 10 @ 0.44
+[2026-02-04T09:30:04.785Z]    ✅ FILLED: 10/10 @ 0.44
+[2026-02-04T09:30:04.785Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:04.785Z]    Position: UP=10, DOWN=20 | Balanced: 10 | Cost: $14.30 | Settlement: $10.00 | P&L: $-4.30 | Remaining: $514.20
+[2026-02-04T09:30:04.809Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.50)
+[2026-02-04T09:30:04.809Z]    📝 POST: 10 @ 0.55
+[2026-02-04T09:30:05.059Z]    🚫 CANCELLED: 10 @ 0.55
+[2026-02-04T09:30:05.059Z]    ❌ NOT FILLED @ 0.55
+[2026-02-04T09:30:05.059Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:05.059Z]    Position: UP=10, DOWN=20 | Balanced: 10 | Cost: $14.30 | Settlement: $10.00 | P&L: $-4.30 | Remaining: $514.20
+[2026-02-04T09:30:05.121Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.50)
+[2026-02-04T09:30:05.121Z]    📝 POST: 10 @ 0.55
+[2026-02-04T09:30:05.371Z]    🚫 CANCELLED: 10 @ 0.55
+[2026-02-04T09:30:05.372Z]    ❌ NOT FILLED @ 0.55
+[2026-02-04T09:30:05.372Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:05.372Z]    Position: UP=10, DOWN=20 | Balanced: 10 | Cost: $14.30 | Settlement: $10.00 | P&L: $-4.30 | Remaining: $514.20
+[2026-02-04T09:30:05.511Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.50)
+[2026-02-04T09:30:05.512Z]    📝 POST: 10 @ 0.55
+[2026-02-04T09:30:05.762Z]    ✅ FILLED: 10/10 @ 0.55
+[2026-02-04T09:30:05.762Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:05.762Z]    Position: UP=20, DOWN=20 | Balanced: 20 | Cost: $19.80 | Settlement: $20.00 | P&L: $0.20 | Remaining: $508.70
+[2026-02-04T09:30:05.815Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.20)
+[2026-02-04T09:30:05.815Z]    📝 POST: 10 @ 0.42
+[2026-02-04T09:30:06.065Z]    ✅ FILLED: 10/10 @ 0.42
+[2026-02-04T09:30:06.065Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:06.065Z]    Position: UP=20, DOWN=30 | Balanced: 20 | Cost: $24.00 | Settlement: $20.00 | P&L: $-4.00 | Remaining: $504.50
+[2026-02-04T09:30:06.149Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.70)
+[2026-02-04T09:30:06.150Z]    📝 POST: 10 @ 0.57
+[2026-02-04T09:30:06.400Z]    ✅ FILLED: 10/10 @ 0.57
+[2026-02-04T09:30:06.400Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:06.400Z]    Position: UP=30, DOWN=30 | Balanced: 30 | Cost: $29.70 | Settlement: $30.00 | P&L: $0.30 | Remaining: $498.80
+[2026-02-04T09:30:06.408Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.20)
+[2026-02-04T09:30:06.408Z]    📝 POST: 10 @ 0.42
+[2026-02-04T09:30:06.659Z]    ✅ FILLED: 10/10 @ 0.42
+[2026-02-04T09:30:06.659Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:06.659Z]    Position: UP=30, DOWN=40 | Balanced: 30 | Cost: $33.90 | Settlement: $30.00 | P&L: $-3.90 | Remaining: $494.60
+[2026-02-04T09:30:06.684Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.70)
+[2026-02-04T09:30:06.684Z]    📝 POST: 10 @ 0.57
+[2026-02-04T09:30:06.934Z]    🚫 CANCELLED: 10 @ 0.57
+[2026-02-04T09:30:06.934Z]    ❌ NOT FILLED @ 0.57
+[2026-02-04T09:30:06.934Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:06.934Z]    Position: UP=30, DOWN=40 | Balanced: 30 | Cost: $33.90 | Settlement: $30.00 | P&L: $-3.90 | Remaining: $494.60
+[2026-02-04T09:30:07.162Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.80)
+[2026-02-04T09:30:07.162Z]    📝 POST: 10 @ 0.58
+[2026-02-04T09:30:07.212Z] ========================================
+[2026-02-04T09:30:07.212Z] NEW MARKET: btc-updown-15m-1770197400
+[2026-02-04T09:30:07.212Z] STARTING BALANCE: $527.49
+[2026-02-04T09:30:07.413Z]    ✅ FILLED: 10/10 @ 0.58
+[2026-02-04T09:30:07.413Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:07.413Z]    Position: UP=40, DOWN=40 | Balanced: 40 | Cost: $39.70 | Settlement: $40.00 | P&L: $0.30 | Remaining: $488.80
+[2026-02-04T09:30:07.458Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.10)
+[2026-02-04T09:30:07.458Z]    📝 POST: 10 @ 0.41
+[2026-02-04T09:30:07.458Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.10)
+[2026-02-04T09:30:07.458Z]    📝 POST: 10 @ 0.41
+[2026-02-04T09:30:07.708Z]    ✅ FILLED: 10/10 @ 0.41
+[2026-02-04T09:30:07.708Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:07.708Z]    Position: UP=0, DOWN=10 | Balanced: 0 | Cost: $4.10 | Settlement: $0.00 | P&L: $-4.10 | Remaining: $523.39
+[2026-02-04T09:30:07.709Z]    ✅ FILLED: 10/10 @ 0.41
+[2026-02-04T09:30:07.709Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:07.709Z]    Position: UP=40, DOWN=50 | Balanced: 40 | Cost: $43.80 | Settlement: $40.00 | P&L: $-3.80 | Remaining: $484.70
+[2026-02-04T09:30:07.754Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.80)
+[2026-02-04T09:30:07.754Z]    📝 POST: 10 @ 0.58
+[2026-02-04T09:30:07.756Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.80)
+[2026-02-04T09:30:07.756Z]    📝 POST: 10 @ 0.58
+[2026-02-04T09:30:08.004Z]    ✅ FILLED: 10/10 @ 0.58
+[2026-02-04T09:30:08.004Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:08.004Z]    Position: UP=10, DOWN=10 | Balanced: 10 | Cost: $9.90 | Settlement: $10.00 | P&L: $0.10 | Remaining: $517.59
+[2026-02-04T09:30:08.006Z]    ✅ FILLED: 4/10 @ 0.58
+[2026-02-04T09:30:08.006Z]    🚫 CANCELLED: 6 @ 0.58
+[2026-02-04T09:30:08.006Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:30:08.006Z]    Position: UP=44, DOWN=50 | Balanced: 44 | Cost: $46.12 | Settlement: $44.00 | P&L: $-2.12 | Remaining: $482.38
+[2026-02-04T09:30:08.007Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.10)
+[2026-02-04T09:30:08.007Z]    📝 POST: 10 @ 0.41
+[2026-02-04T09:30:08.008Z] 🟢 POST UP: 6 shares @ 0.58 (bid)
+[2026-02-04T09:30:08.258Z]    ✅ FILLED: 10/10 @ 0.41
+[2026-02-04T09:30:08.258Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:08.258Z]    Position: UP=10, DOWN=20 | Balanced: 10 | Cost: $14.00 | Settlement: $10.00 | P&L: $-4.00 | Remaining: $513.49
+[2026-02-04T09:30:08.259Z]    ✅ FILLED: UP 3/6 @ 0.58 (maker)
+[2026-02-04T09:30:08.259Z]    🚫 CANCELLED: UP 3 shares (unfilled portion)
+[2026-02-04T09:30:08.259Z]    Position: UP=47, DOWN=50 | Balanced: 47 | Cost: $47.86 | Settlement: $47.00 | P&L: $-0.86 | Remaining: $480.64
+[2026-02-04T09:30:08.317Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.80)
+[2026-02-04T09:30:08.317Z]    📝 POST: 10 @ 0.58
+[2026-02-04T09:30:08.323Z] 🟢 POST UP: 3 shares @ 0.58 (bid)
+[2026-02-04T09:30:08.568Z]    ✅ FILLED: 10/10 @ 0.58
+[2026-02-04T09:30:08.568Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:08.568Z]    Position: UP=20, DOWN=20 | Balanced: 20 | Cost: $19.80 | Settlement: $20.00 | P&L: $0.20 | Remaining: $507.69
+[2026-02-04T09:30:08.574Z]    ✅ FILLED: UP 3/3 @ 0.58 (maker)
+[2026-02-04T09:30:08.574Z]    Position: UP=50, DOWN=50 | Balanced: 50 | Cost: $49.60 | Settlement: $50.00 | P&L: $0.40 | Remaining: $478.90
+[2026-02-04T09:30:08.624Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.10)
+[2026-02-04T09:30:08.624Z]    📝 POST: 10 @ 0.41
+[2026-02-04T09:30:08.627Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.10)
+[2026-02-04T09:30:08.627Z]    📝 POST: 10 @ 0.41
+[2026-02-04T09:30:08.875Z]    🚫 CANCELLED: 10 @ 0.41
+[2026-02-04T09:30:08.875Z]    ❌ NOT FILLED @ 0.41
+[2026-02-04T09:30:08.875Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:08.875Z]    Position: UP=20, DOWN=20 | Balanced: 20 | Cost: $19.80 | Settlement: $20.00 | P&L: $0.20 | Remaining: $507.69
+[2026-02-04T09:30:08.878Z]    ✅ FILLED: 10/10 @ 0.41
+[2026-02-04T09:30:08.878Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:08.878Z]    Position: UP=50, DOWN=60 | Balanced: 50 | Cost: $53.70 | Settlement: $50.00 | P&L: $-3.70 | Remaining: $474.80
+[2026-02-04T09:30:08.882Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:30:08.882Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:30:09.132Z]    ✅ FILLED: 10/10 @ 0.59
+[2026-02-04T09:30:09.132Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:09.133Z]    Position: UP=60, DOWN=60 | Balanced: 60 | Cost: $59.60 | Settlement: $60.00 | P&L: $0.40 | Remaining: $468.90
+[2026-02-04T09:30:09.553Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.00)
+[2026-02-04T09:30:09.553Z]    📝 POST: 10 @ 0.4
+[2026-02-04T09:30:09.556Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.00)
+[2026-02-04T09:30:09.556Z]    📝 POST: 10 @ 0.4
+[2026-02-04T09:30:09.804Z]    ✅ FILLED: 10/10 @ 0.4
+[2026-02-04T09:30:09.804Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:09.804Z]    Position: UP=20, DOWN=30 | Balanced: 20 | Cost: $23.80 | Settlement: $20.00 | P&L: $-3.80 | Remaining: $503.69
+[2026-02-04T09:30:09.806Z]    ✅ FILLED: 10/10 @ 0.4
+[2026-02-04T09:30:09.807Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:09.807Z]    Position: UP=60, DOWN=70 | Balanced: 60 | Cost: $63.60 | Settlement: $60.00 | P&L: $-3.60 | Remaining: $464.90
+[2026-02-04T09:30:09.817Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:30:09.817Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:30:09.820Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:30:09.820Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:30:10.068Z]    🚫 CANCELLED: 10 @ 0.59
+[2026-02-04T09:30:10.068Z]    ❌ NOT FILLED @ 0.59
+[2026-02-04T09:30:10.068Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:10.068Z]    Position: UP=20, DOWN=30 | Balanced: 20 | Cost: $23.80 | Settlement: $20.00 | P&L: $-3.80 | Remaining: $503.69
+[2026-02-04T09:30:10.070Z]    ✅ FILLED: 10/10 @ 0.59
+[2026-02-04T09:30:10.070Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:10.070Z]    Position: UP=70, DOWN=70 | Balanced: 70 | Cost: $69.50 | Settlement: $70.00 | P&L: $0.50 | Remaining: $459.00
+[2026-02-04T09:30:10.077Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:30:10.077Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:30:10.079Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.00)
+[2026-02-04T09:30:10.079Z]    📝 POST: 10 @ 0.4
+[2026-02-04T09:30:10.327Z]    ✅ FILLED: 10/10 @ 0.59
+[2026-02-04T09:30:10.327Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:10.327Z]    Position: UP=30, DOWN=30 | Balanced: 30 | Cost: $29.70 | Settlement: $30.00 | P&L: $0.30 | Remaining: $497.79
+[2026-02-04T09:30:10.330Z]    ✅ FILLED: 10/10 @ 0.4
+[2026-02-04T09:30:10.330Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:10.330Z]    Position: UP=70, DOWN=80 | Balanced: 70 | Cost: $73.50 | Settlement: $70.00 | P&L: $-3.50 | Remaining: $455.00
+[2026-02-04T09:30:10.333Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.90)
+[2026-02-04T09:30:10.333Z]    📝 POST: 10 @ 0.39
+[2026-02-04T09:30:10.341Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.00)
+[2026-02-04T09:30:10.341Z]    📝 POST: 10 @ 0.6
+[2026-02-04T09:30:10.583Z]    ✅ FILLED: 8/10 @ 0.39
+[2026-02-04T09:30:10.584Z]    🚫 CANCELLED: 2 @ 0.39
+[2026-02-04T09:30:10.584Z]    📊 BATCH RESULT: 8/10 filled
+[2026-02-04T09:30:10.584Z]    Position: UP=30, DOWN=38 | Balanced: 30 | Cost: $32.82 | Settlement: $30.00 | P&L: $-2.82 | Remaining: $494.67
+[2026-02-04T09:30:10.592Z]    ✅ FILLED: 6/10 @ 0.6
+[2026-02-04T09:30:10.592Z]    🚫 CANCELLED: 4 @ 0.6
+[2026-02-04T09:30:10.592Z]    📊 BATCH RESULT: 6/10 filled
+[2026-02-04T09:30:10.592Z]    Position: UP=76, DOWN=80 | Balanced: 76 | Cost: $77.10 | Settlement: $76.00 | P&L: $-1.10 | Remaining: $451.40
+[2026-02-04T09:30:10.620Z] 🟢 POST UP: 8 shares @ 0.61 (bid)
+[2026-02-04T09:30:10.623Z] 🟢 POST UP: 4 shares @ 0.61 (bid)
+[2026-02-04T09:30:10.873Z]    ✅ FILLED: UP 8/8 @ 0.61 (maker)
+[2026-02-04T09:30:10.873Z]    Position: UP=38, DOWN=38 | Balanced: 38 | Cost: $37.70 | Settlement: $38.00 | P&L: $0.30 | Remaining: $489.79
+[2026-02-04T09:30:10.875Z]    ✅ FILLED: UP 4/4 @ 0.61 (maker)
+[2026-02-04T09:30:10.875Z]    Position: UP=80, DOWN=80 | Balanced: 80 | Cost: $79.54 | Settlement: $80.00 | P&L: $0.46 | Remaining: $448.96
+[2026-02-04T09:30:13.807Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.70)
+[2026-02-04T09:30:13.807Z]    📝 POST: 10 @ 0.37
+[2026-02-04T09:30:13.811Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.70)
+[2026-02-04T09:30:13.811Z]    📝 POST: 10 @ 0.37
+[2026-02-04T09:30:14.058Z]    ✅ FILLED: 10/10 @ 0.37
+[2026-02-04T09:30:14.058Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:14.058Z]    Position: UP=80, DOWN=90 | Balanced: 80 | Cost: $83.24 | Settlement: $80.00 | P&L: $-3.24 | Remaining: $445.26
+[2026-02-04T09:30:14.061Z]    ✅ FILLED: 6/10 @ 0.37
+[2026-02-04T09:30:14.061Z]    🚫 CANCELLED: 4 @ 0.37
+[2026-02-04T09:30:14.061Z]    📊 BATCH RESULT: 6/10 filled
+[2026-02-04T09:30:14.061Z]    Position: UP=38, DOWN=44 | Balanced: 38 | Cost: $39.92 | Settlement: $38.00 | P&L: $-1.92 | Remaining: $487.57
+[2026-02-04T09:30:14.126Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.00)
+[2026-02-04T09:30:14.126Z]    📝 POST: 10 @ 0.6
+[2026-02-04T09:30:14.213Z] 🟢 POST UP: 6 shares @ 0.62 (bid)
+[2026-02-04T09:30:14.377Z]    ✅ FILLED: 10/10 @ 0.6
+[2026-02-04T09:30:14.377Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:14.377Z]    Position: UP=90, DOWN=90 | Balanced: 90 | Cost: $89.24 | Settlement: $90.00 | P&L: $0.76 | Remaining: $439.26
+[2026-02-04T09:30:14.387Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.70)
+[2026-02-04T09:30:14.387Z]    📝 POST: 10 @ 0.37
+[2026-02-04T09:30:14.464Z]    ✅ FILLED: UP 3/6 @ 0.62 (maker)
+[2026-02-04T09:30:14.464Z]    🚫 CANCELLED: UP 3 shares (unfilled portion)
+[2026-02-04T09:30:14.464Z]    Position: UP=41, DOWN=44 | Balanced: 41 | Cost: $41.78 | Settlement: $41.00 | P&L: $-0.78 | Remaining: $485.71
+[2026-02-04T09:30:14.541Z] 🟢 POST UP: 3 shares @ 0.62 (bid)
+[2026-02-04T09:30:14.637Z]    ✅ FILLED: 10/10 @ 0.37
+[2026-02-04T09:30:14.637Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:14.637Z]    Position: UP=90, DOWN=100 | Balanced: 90 | Cost: $92.94 | Settlement: $90.00 | P&L: $-2.94 | Remaining: $435.56
+[2026-02-04T09:30:14.653Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.20)
+[2026-02-04T09:30:14.653Z]    📝 POST: 10 @ 0.62
+[2026-02-04T09:30:14.792Z]    ✅ FILLED: UP 3/3 @ 0.62 (maker)
+[2026-02-04T09:30:14.792Z]    Position: UP=44, DOWN=44 | Balanced: 44 | Cost: $43.64 | Settlement: $44.00 | P&L: $0.36 | Remaining: $483.85
+[2026-02-04T09:30:14.846Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.70)
+[2026-02-04T09:30:14.846Z]    📝 POST: 10 @ 0.37
+[2026-02-04T09:30:14.903Z]    ✅ FILLED: 10/10 @ 0.62
+[2026-02-04T09:30:14.903Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:14.903Z]    Position: UP=100, DOWN=100 | Balanced: 100 | Cost: $99.14 | Settlement: $100.00 | P&L: $0.86 | Remaining: $429.36
+[2026-02-04T09:30:14.917Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.70)
+[2026-02-04T09:30:14.917Z]    📝 POST: 10 @ 0.37
+[2026-02-04T09:30:15.096Z]    ✅ FILLED: 8/10 @ 0.37
+[2026-02-04T09:30:15.096Z]    🚫 CANCELLED: 2 @ 0.37
+[2026-02-04T09:30:15.096Z]    📊 BATCH RESULT: 8/10 filled
+[2026-02-04T09:30:15.096Z]    Position: UP=44, DOWN=52 | Balanced: 44 | Cost: $46.60 | Settlement: $44.00 | P&L: $-2.60 | Remaining: $480.89
+[2026-02-04T09:30:15.167Z]    ✅ FILLED: 8/10 @ 0.37
+[2026-02-04T09:30:15.167Z]    🚫 CANCELLED: 2 @ 0.37
+[2026-02-04T09:30:15.167Z]    📊 BATCH RESULT: 8/10 filled
+[2026-02-04T09:30:15.167Z]    Position: UP=100, DOWN=108 | Balanced: 100 | Cost: $102.10 | Settlement: $100.00 | P&L: $-2.10 | Remaining: $426.40
+[2026-02-04T09:30:15.304Z] 🟢 POST UP: 8 shares @ 0.62 (bid)
+[2026-02-04T09:30:15.305Z] 🟢 POST UP: 8 shares @ 0.62 (bid)
+[2026-02-04T09:30:15.554Z]    ✅ FILLED: UP 8/8 @ 0.62 (maker)
+[2026-02-04T09:30:15.554Z]    Position: UP=52, DOWN=52 | Balanced: 52 | Cost: $51.56 | Settlement: $52.00 | P&L: $0.44 | Remaining: $475.93
+[2026-02-04T09:30:15.556Z]    ✅ FILLED: UP 8/8 @ 0.62 (maker)
+[2026-02-04T09:30:15.556Z]    Position: UP=108, DOWN=108 | Balanced: 108 | Cost: $107.06 | Settlement: $108.00 | P&L: $0.94 | Remaining: $421.44
+[2026-02-04T09:30:15.739Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.70)
+[2026-02-04T09:30:15.740Z]    📝 POST: 10 @ 0.37
+[2026-02-04T09:30:15.742Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.70)
+[2026-02-04T09:30:15.742Z]    📝 POST: 10 @ 0.37
+[2026-02-04T09:30:15.990Z]    ✅ FILLED: 10/10 @ 0.37
+[2026-02-04T09:30:15.990Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:15.990Z]    Position: UP=52, DOWN=62 | Balanced: 52 | Cost: $55.26 | Settlement: $52.00 | P&L: $-3.26 | Remaining: $472.23
+[2026-02-04T09:30:15.992Z]    🚫 CANCELLED: 10 @ 0.37
+[2026-02-04T09:30:15.992Z]    ❌ NOT FILLED @ 0.37
+[2026-02-04T09:30:15.992Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:15.992Z]    Position: UP=108, DOWN=108 | Balanced: 108 | Cost: $107.06 | Settlement: $108.00 | P&L: $0.94 | Remaining: $421.44
+[2026-02-04T09:30:16.397Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:16.397Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:16.397Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.30)
+[2026-02-04T09:30:16.397Z]    📝 POST: 10 @ 0.63
+[2026-02-04T09:30:16.647Z]    ✅ FILLED: 10/10 @ 0.63
+[2026-02-04T09:30:16.647Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:16.647Z]    Position: UP=62, DOWN=62 | Balanced: 62 | Cost: $61.56 | Settlement: $62.00 | P&L: $0.44 | Remaining: $465.93
+[2026-02-04T09:30:16.647Z]    ✅ FILLED: 5/10 @ 0.36
+[2026-02-04T09:30:16.648Z]    🚫 CANCELLED: 5 @ 0.36
+[2026-02-04T09:30:16.648Z]    📊 BATCH RESULT: 5/10 filled
+[2026-02-04T09:30:16.648Z]    Position: UP=108, DOWN=113 | Balanced: 108 | Cost: $108.86 | Settlement: $108.00 | P&L: $-0.86 | Remaining: $419.64
+[2026-02-04T09:30:17.222Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:17.222Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:17.225Z] 🟢 POST UP: 5 shares @ 0.63 (bid)
+[2026-02-04T09:30:17.473Z]    ✅ FILLED: 10/10 @ 0.36
+[2026-02-04T09:30:17.473Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:17.473Z]    Position: UP=62, DOWN=72 | Balanced: 62 | Cost: $65.16 | Settlement: $62.00 | P&L: $-3.16 | Remaining: $462.33
+[2026-02-04T09:30:17.475Z]    ✅ FILLED: UP 5/5 @ 0.63 (maker)
+[2026-02-04T09:30:17.475Z]    Position: UP=113, DOWN=113 | Balanced: 113 | Cost: $112.01 | Settlement: $113.00 | P&L: $0.99 | Remaining: $416.49
+[2026-02-04T09:30:17.538Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:17.538Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:17.542Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.30)
+[2026-02-04T09:30:17.542Z]    📝 POST: 10 @ 0.63
+[2026-02-04T09:30:17.788Z]    ✅ FILLED: 10/10 @ 0.36
+[2026-02-04T09:30:17.788Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:17.788Z]    Position: UP=113, DOWN=123 | Balanced: 113 | Cost: $115.61 | Settlement: $113.00 | P&L: $-2.61 | Remaining: $412.89
+[2026-02-04T09:30:17.792Z]    ✅ FILLED: 10/10 @ 0.63
+[2026-02-04T09:30:17.792Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:17.792Z]    Position: UP=72, DOWN=72 | Balanced: 72 | Cost: $71.46 | Settlement: $72.00 | P&L: $0.54 | Remaining: $456.03
+[2026-02-04T09:30:17.883Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:17.883Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:17.885Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.30)
+[2026-02-04T09:30:17.885Z]    📝 POST: 10 @ 0.63
+[2026-02-04T09:30:18.134Z]    ✅ FILLED: 7/10 @ 0.36
+[2026-02-04T09:30:18.134Z]    🚫 CANCELLED: 3 @ 0.36
+[2026-02-04T09:30:18.134Z]    📊 BATCH RESULT: 7/10 filled
+[2026-02-04T09:30:18.134Z]    Position: UP=72, DOWN=79 | Balanced: 72 | Cost: $73.98 | Settlement: $72.00 | P&L: $-1.98 | Remaining: $453.51
+[2026-02-04T09:30:18.135Z]    ✅ FILLED: 5/10 @ 0.63
+[2026-02-04T09:30:18.135Z]    🚫 CANCELLED: 5 @ 0.63
+[2026-02-04T09:30:18.135Z]    📊 BATCH RESULT: 5/10 filled
+[2026-02-04T09:30:18.135Z]    Position: UP=118, DOWN=123 | Balanced: 118 | Cost: $118.76 | Settlement: $118.00 | P&L: $-0.76 | Remaining: $409.74
+[2026-02-04T09:30:18.142Z] 🟢 POST UP: 7 shares @ 0.63 (bid)
+[2026-02-04T09:30:18.149Z] 🟢 POST UP: 5 shares @ 0.63 (bid)
+[2026-02-04T09:30:18.393Z]    ✅ FILLED: UP 7/7 @ 0.63 (maker)
+[2026-02-04T09:30:18.393Z]    Position: UP=79, DOWN=79 | Balanced: 79 | Cost: $78.39 | Settlement: $79.00 | P&L: $0.61 | Remaining: $449.10
+[2026-02-04T09:30:18.400Z]    ✅ FILLED: UP 1/5 @ 0.63 (maker)
+[2026-02-04T09:30:18.400Z]    🚫 CANCELLED: UP 4 shares (unfilled portion)
+[2026-02-04T09:30:18.401Z]    Position: UP=119, DOWN=123 | Balanced: 119 | Cost: $119.39 | Settlement: $119.00 | P&L: $-0.39 | Remaining: $409.11
+[2026-02-04T09:30:18.530Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:18.530Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:18.531Z] 🟢 POST UP: 4 shares @ 0.64 (bid)
+[2026-02-04T09:30:18.781Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:18.781Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:18.781Z]    Position: UP=79, DOWN=89 | Balanced: 79 | Cost: $81.89 | Settlement: $79.00 | P&L: $-2.89 | Remaining: $445.60
+[2026-02-04T09:30:18.782Z]    ✅ FILLED: UP 4/4 @ 0.64 (maker)
+[2026-02-04T09:30:18.782Z]    Position: UP=123, DOWN=123 | Balanced: 123 | Cost: $121.95 | Settlement: $123.00 | P&L: $1.05 | Remaining: $406.55
+[2026-02-04T09:30:18.886Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:18.886Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:18.888Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:18.888Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:19.136Z]    🚫 CANCELLED: 10 @ 0.64
+[2026-02-04T09:30:19.136Z]    ❌ NOT FILLED @ 0.64
+[2026-02-04T09:30:19.136Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:19.136Z]    Position: UP=79, DOWN=89 | Balanced: 79 | Cost: $81.89 | Settlement: $79.00 | P&L: $-2.89 | Remaining: $445.60
+[2026-02-04T09:30:19.138Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:19.138Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:19.138Z]    Position: UP=123, DOWN=133 | Balanced: 123 | Cost: $125.45 | Settlement: $123.00 | P&L: $-2.45 | Remaining: $403.05
+[2026-02-04T09:30:19.148Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:19.148Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:19.162Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:19.162Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:19.398Z]    🚫 CANCELLED: 10 @ 0.64
+[2026-02-04T09:30:19.398Z]    ❌ NOT FILLED @ 0.64
+[2026-02-04T09:30:19.398Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:19.399Z]    Position: UP=123, DOWN=133 | Balanced: 123 | Cost: $125.45 | Settlement: $123.00 | P&L: $-2.45 | Remaining: $403.05
+[2026-02-04T09:30:19.413Z]    ✅ FILLED: 10/10 @ 0.64
+[2026-02-04T09:30:19.413Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:19.413Z]    Position: UP=89, DOWN=89 | Balanced: 89 | Cost: $88.29 | Settlement: $89.00 | P&L: $0.71 | Remaining: $439.20
+[2026-02-04T09:30:19.426Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:19.426Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:19.427Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:19.427Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:19.676Z]    ✅ FILLED: 4/10 @ 0.64
+[2026-02-04T09:30:19.676Z]    🚫 CANCELLED: 6 @ 0.64
+[2026-02-04T09:30:19.676Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:30:19.676Z]    Position: UP=127, DOWN=133 | Balanced: 127 | Cost: $128.01 | Settlement: $127.00 | P&L: $-1.01 | Remaining: $400.49
+[2026-02-04T09:30:19.677Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:19.677Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:19.677Z]    Position: UP=89, DOWN=99 | Balanced: 89 | Cost: $91.79 | Settlement: $89.00 | P&L: $-2.79 | Remaining: $435.70
+[2026-02-04T09:30:19.861Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:19.861Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:19.886Z] 🟢 POST UP: 6 shares @ 0.64 (bid)
+[2026-02-04T09:30:20.111Z]    ✅ FILLED: 10/10 @ 0.64
+[2026-02-04T09:30:20.111Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:20.111Z]    Position: UP=99, DOWN=99 | Balanced: 99 | Cost: $98.19 | Settlement: $99.00 | P&L: $0.81 | Remaining: $429.30
+[2026-02-04T09:30:20.137Z]    ✅ FILLED: UP 4/6 @ 0.64 (maker)
+[2026-02-04T09:30:20.137Z]    🚫 CANCELLED: UP 2 shares (unfilled portion)
+[2026-02-04T09:30:20.137Z]    Position: UP=131, DOWN=133 | Balanced: 131 | Cost: $130.57 | Settlement: $131.00 | P&L: $0.43 | Remaining: $397.93
+[2026-02-04T09:30:20.301Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:20.301Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:20.305Z] 🟢 POST UP: 2 shares @ 0.64 (bid)
+[2026-02-04T09:30:20.551Z]    🚫 CANCELLED: 10 @ 0.35
+[2026-02-04T09:30:20.551Z]    ❌ NOT FILLED @ 0.35
+[2026-02-04T09:30:20.551Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:20.551Z]    Position: UP=99, DOWN=99 | Balanced: 99 | Cost: $98.19 | Settlement: $99.00 | P&L: $0.81 | Remaining: $429.30
+[2026-02-04T09:30:20.556Z]    🚫 CANCELLED: UP 2 shares (unfilled portion)
+[2026-02-04T09:30:20.556Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:20.556Z]    Position: UP=131, DOWN=133 | Balanced: 131 | Cost: $130.57 | Settlement: $131.00 | P&L: $0.43 | Remaining: $397.93
+[2026-02-04T09:30:20.713Z] 🟢 POST UP: 2 shares @ 0.64 (bid)
+[2026-02-04T09:30:20.715Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.30)
+[2026-02-04T09:30:20.715Z]    📝 POST: 10 @ 0.33
+[2026-02-04T09:30:20.965Z]    ✅ FILLED: UP 2/2 @ 0.64 (maker)
+[2026-02-04T09:30:20.965Z]    Position: UP=133, DOWN=133 | Balanced: 133 | Cost: $131.85 | Settlement: $133.00 | P&L: $1.15 | Remaining: $396.65
+[2026-02-04T09:30:20.965Z]    ✅ FILLED: 6/10 @ 0.33
+[2026-02-04T09:30:20.966Z]    🚫 CANCELLED: 4 @ 0.33
+[2026-02-04T09:30:20.966Z]    📊 BATCH RESULT: 6/10 filled
+[2026-02-04T09:30:20.966Z]    Position: UP=99, DOWN=105 | Balanced: 99 | Cost: $100.17 | Settlement: $99.00 | P&L: $-1.17 | Remaining: $427.32
+[2026-02-04T09:30:21.018Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:21.018Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:21.019Z] 🟢 POST UP: 6 shares @ 0.65 (bid)
+[2026-02-04T09:30:21.268Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:21.268Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:21.268Z]    Position: UP=133, DOWN=143 | Balanced: 133 | Cost: $135.25 | Settlement: $133.00 | P&L: $-2.25 | Remaining: $393.25
+[2026-02-04T09:30:21.269Z]    ✅ FILLED: UP 2/6 @ 0.65 (maker)
+[2026-02-04T09:30:21.269Z]    🚫 CANCELLED: UP 4 shares (unfilled portion)
+[2026-02-04T09:30:21.269Z]    Position: UP=101, DOWN=105 | Balanced: 101 | Cost: $101.47 | Settlement: $101.00 | P&L: $-0.47 | Remaining: $426.02
+[2026-02-04T09:30:21.498Z] 🟢 POST UP: 4 shares @ 0.65 (bid)
+[2026-02-04T09:30:21.508Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:21.508Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:21.748Z]    ✅ FILLED: UP 4/4 @ 0.65 (maker)
+[2026-02-04T09:30:21.749Z]    Position: UP=105, DOWN=105 | Balanced: 105 | Cost: $104.07 | Settlement: $105.00 | P&L: $0.93 | Remaining: $423.42
+[2026-02-04T09:30:21.758Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:21.758Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:21.758Z]    Position: UP=143, DOWN=143 | Balanced: 143 | Cost: $141.75 | Settlement: $143.00 | P&L: $1.25 | Remaining: $386.75
+[2026-02-04T09:30:22.111Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:22.111Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:22.111Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:22.111Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:22.361Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:22.361Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:22.361Z]    Position: UP=143, DOWN=153 | Balanced: 143 | Cost: $145.15 | Settlement: $143.00 | P&L: $-2.15 | Remaining: $383.35
+[2026-02-04T09:30:22.362Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:22.362Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:22.362Z]    Position: UP=105, DOWN=115 | Balanced: 105 | Cost: $107.47 | Settlement: $105.00 | P&L: $-2.47 | Remaining: $420.02
+[2026-02-04T09:30:22.800Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:22.800Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:22.801Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:22.802Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:23.050Z]    🚫 CANCELLED: 10 @ 0.65
+[2026-02-04T09:30:23.050Z]    ❌ NOT FILLED @ 0.65
+[2026-02-04T09:30:23.050Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:23.050Z]    Position: UP=143, DOWN=153 | Balanced: 143 | Cost: $145.15 | Settlement: $143.00 | P&L: $-2.15 | Remaining: $383.35
+[2026-02-04T09:30:23.052Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:23.052Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:23.052Z]    Position: UP=115, DOWN=115 | Balanced: 115 | Cost: $113.97 | Settlement: $115.00 | P&L: $1.03 | Remaining: $413.52
+[2026-02-04T09:30:23.188Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:23.189Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:23.193Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:23.193Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:23.439Z]    🚫 CANCELLED: 10 @ 0.65
+[2026-02-04T09:30:23.439Z]    ❌ NOT FILLED @ 0.65
+[2026-02-04T09:30:23.439Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:23.439Z]    Position: UP=143, DOWN=153 | Balanced: 143 | Cost: $145.15 | Settlement: $143.00 | P&L: $-2.15 | Remaining: $383.35
+[2026-02-04T09:30:23.444Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:23.444Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:23.444Z]    Position: UP=115, DOWN=125 | Balanced: 115 | Cost: $117.37 | Settlement: $115.00 | P&L: $-2.37 | Remaining: $410.12
+[2026-02-04T09:30:23.508Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:23.508Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:23.509Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:23.509Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:23.759Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:23.759Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:23.759Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:23.759Z]    Position: UP=125, DOWN=125 | Balanced: 125 | Cost: $123.87 | Settlement: $125.00 | P&L: $1.13 | Remaining: $403.62
+[2026-02-04T09:30:23.759Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:23.759Z]    Position: UP=153, DOWN=153 | Balanced: 153 | Cost: $151.65 | Settlement: $153.00 | P&L: $1.35 | Remaining: $376.85
+[2026-02-04T09:30:23.779Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:23.779Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:23.780Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:23.780Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:24.030Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:24.030Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:24.030Z]    Position: UP=153, DOWN=163 | Balanced: 153 | Cost: $155.05 | Settlement: $153.00 | P&L: $-2.05 | Remaining: $373.45
+[2026-02-04T09:30:24.031Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:24.031Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:24.031Z]    Position: UP=125, DOWN=135 | Balanced: 125 | Cost: $127.27 | Settlement: $125.00 | P&L: $-2.27 | Remaining: $400.22
+[2026-02-04T09:30:24.116Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:24.116Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:24.117Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:24.117Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:24.367Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:24.367Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:24.367Z]    Position: UP=163, DOWN=163 | Balanced: 163 | Cost: $161.55 | Settlement: $163.00 | P&L: $1.45 | Remaining: $366.95
+[2026-02-04T09:30:24.368Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:24.368Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:24.368Z]    Position: UP=135, DOWN=135 | Balanced: 135 | Cost: $133.77 | Settlement: $135.00 | P&L: $1.23 | Remaining: $393.72
+[2026-02-04T09:30:24.436Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:24.436Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:24.441Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:24.441Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:24.686Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:24.686Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:24.686Z]    Position: UP=135, DOWN=145 | Balanced: 135 | Cost: $137.17 | Settlement: $135.00 | P&L: $-2.17 | Remaining: $390.32
+[2026-02-04T09:30:24.691Z]    🚫 CANCELLED: 10 @ 0.34
+[2026-02-04T09:30:24.691Z]    ❌ NOT FILLED @ 0.34
+[2026-02-04T09:30:24.691Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:24.691Z]    Position: UP=163, DOWN=163 | Balanced: 163 | Cost: $161.55 | Settlement: $163.00 | P&L: $1.45 | Remaining: $366.95
+[2026-02-04T09:30:24.844Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:24.844Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:24.844Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:24.844Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:25.094Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:25.094Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:25.094Z]    Position: UP=163, DOWN=173 | Balanced: 163 | Cost: $164.95 | Settlement: $163.00 | P&L: $-1.95 | Remaining: $363.55
+[2026-02-04T09:30:25.094Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:25.094Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:25.094Z]    Position: UP=145, DOWN=145 | Balanced: 145 | Cost: $143.67 | Settlement: $145.00 | P&L: $1.33 | Remaining: $383.82
+[2026-02-04T09:30:25.239Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:25.239Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:25.242Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:25.242Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:25.490Z]    🚫 CANCELLED: 10 @ 0.65
+[2026-02-04T09:30:25.490Z]    ❌ NOT FILLED @ 0.65
+[2026-02-04T09:30:25.490Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:25.490Z]    Position: UP=163, DOWN=173 | Balanced: 163 | Cost: $164.95 | Settlement: $163.00 | P&L: $-1.95 | Remaining: $363.55
+[2026-02-04T09:30:25.493Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:25.493Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:25.493Z]    Position: UP=145, DOWN=155 | Balanced: 145 | Cost: $147.07 | Settlement: $145.00 | P&L: $-2.07 | Remaining: $380.42
+[2026-02-04T09:30:25.789Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:25.789Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:25.789Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:25.789Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:26.039Z]    ✅ FILLED: 7/10 @ 0.65
+[2026-02-04T09:30:26.039Z]    🚫 CANCELLED: 3 @ 0.65
+[2026-02-04T09:30:26.039Z]    📊 BATCH RESULT: 7/10 filled
+[2026-02-04T09:30:26.039Z]    Position: UP=170, DOWN=173 | Balanced: 170 | Cost: $169.50 | Settlement: $170.00 | P&L: $0.50 | Remaining: $359.00
+[2026-02-04T09:30:26.040Z]    ✅ FILLED: 6/10 @ 0.65
+[2026-02-04T09:30:26.040Z]    🚫 CANCELLED: 4 @ 0.65
+[2026-02-04T09:30:26.040Z]    📊 BATCH RESULT: 6/10 filled
+[2026-02-04T09:30:26.040Z]    Position: UP=151, DOWN=155 | Balanced: 151 | Cost: $150.97 | Settlement: $151.00 | P&L: $0.03 | Remaining: $376.52
+[2026-02-04T09:30:26.294Z] 🟢 POST UP: 4 shares @ 0.65 (bid)
+[2026-02-04T09:30:26.294Z] 🟢 POST UP: 3 shares @ 0.65 (bid)
+[2026-02-04T09:30:26.544Z]    🚫 CANCELLED: UP 3 shares (unfilled portion)
+[2026-02-04T09:30:26.544Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:26.544Z]    Position: UP=170, DOWN=173 | Balanced: 170 | Cost: $169.50 | Settlement: $170.00 | P&L: $0.50 | Remaining: $359.00
+[2026-02-04T09:30:26.545Z]    🚫 CANCELLED: UP 4 shares (unfilled portion)
+[2026-02-04T09:30:26.545Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:26.545Z]    Position: UP=151, DOWN=155 | Balanced: 151 | Cost: $150.97 | Settlement: $151.00 | P&L: $0.03 | Remaining: $376.52
+[2026-02-04T09:30:26.558Z] 🟢 POST UP: 3 shares @ 0.65 (bid)
+[2026-02-04T09:30:26.558Z] 🟢 POST UP: 4 shares @ 0.65 (bid)
+[2026-02-04T09:30:26.808Z]    ✅ FILLED: UP 3/3 @ 0.65 (maker)
+[2026-02-04T09:30:26.808Z]    Position: UP=173, DOWN=173 | Balanced: 173 | Cost: $171.45 | Settlement: $173.00 | P&L: $1.55 | Remaining: $357.05
+[2026-02-04T09:30:26.809Z]    ✅ FILLED: UP 4/4 @ 0.65 (maker)
+[2026-02-04T09:30:26.809Z]    Position: UP=155, DOWN=155 | Balanced: 155 | Cost: $153.57 | Settlement: $155.00 | P&L: $1.43 | Remaining: $373.92
+[2026-02-04T09:30:26.841Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:26.841Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:26.842Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:26.842Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:27.092Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:27.092Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:27.092Z]    Position: UP=173, DOWN=183 | Balanced: 173 | Cost: $174.85 | Settlement: $173.00 | P&L: $-1.85 | Remaining: $353.65
+[2026-02-04T09:30:27.093Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:27.093Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:27.093Z]    Position: UP=155, DOWN=165 | Balanced: 155 | Cost: $156.97 | Settlement: $155.00 | P&L: $-1.97 | Remaining: $370.52
+[2026-02-04T09:30:27.121Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:27.121Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:27.121Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:27.121Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:27.371Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:27.371Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:27.371Z]    Position: UP=165, DOWN=165 | Balanced: 165 | Cost: $163.47 | Settlement: $165.00 | P&L: $1.53 | Remaining: $364.02
+[2026-02-04T09:30:27.372Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:27.372Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:27.372Z]    Position: UP=183, DOWN=183 | Balanced: 183 | Cost: $181.35 | Settlement: $183.00 | P&L: $1.65 | Remaining: $347.15
+[2026-02-04T09:30:27.501Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:27.501Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:27.585Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:27.585Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:27.751Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:27.751Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:27.751Z]    Position: UP=183, DOWN=193 | Balanced: 183 | Cost: $184.75 | Settlement: $183.00 | P&L: $-1.75 | Remaining: $343.75
+[2026-02-04T09:30:27.835Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:27.835Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:27.835Z]    Position: UP=165, DOWN=175 | Balanced: 165 | Cost: $166.87 | Settlement: $165.00 | P&L: $-1.87 | Remaining: $360.62
+[2026-02-04T09:30:27.872Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:27.872Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:27.872Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:27.872Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:28.122Z]    ✅ FILLED: 3/10 @ 0.65
+[2026-02-04T09:30:28.122Z]    🚫 CANCELLED: 7 @ 0.65
+[2026-02-04T09:30:28.122Z]    📊 BATCH RESULT: 3/10 filled
+[2026-02-04T09:30:28.122Z]    Position: UP=186, DOWN=193 | Balanced: 186 | Cost: $186.70 | Settlement: $186.00 | P&L: $-0.70 | Remaining: $341.80
+[2026-02-04T09:30:28.122Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:28.122Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:28.122Z]    Position: UP=175, DOWN=175 | Balanced: 175 | Cost: $173.37 | Settlement: $175.00 | P&L: $1.63 | Remaining: $354.12
+[2026-02-04T09:30:28.257Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:28.257Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:28.262Z] 🟢 POST UP: 7 shares @ 0.64 (bid)
+[2026-02-04T09:30:28.507Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:28.508Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:28.508Z]    Position: UP=175, DOWN=185 | Balanced: 175 | Cost: $176.77 | Settlement: $175.00 | P&L: $-1.77 | Remaining: $350.72
+[2026-02-04T09:30:28.513Z]    ✅ FILLED: UP 7/7 @ 0.64 (maker)
+[2026-02-04T09:30:28.513Z]    Position: UP=193, DOWN=193 | Balanced: 193 | Cost: $191.18 | Settlement: $193.00 | P&L: $1.82 | Remaining: $337.32
+[2026-02-04T09:30:28.643Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:28.643Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:28.643Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:28.644Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:28.894Z]    🚫 CANCELLED: 10 @ 0.34
+[2026-02-04T09:30:28.894Z]    ❌ NOT FILLED @ 0.34
+[2026-02-04T09:30:28.894Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:28.894Z]    Position: UP=193, DOWN=193 | Balanced: 193 | Cost: $191.18 | Settlement: $193.00 | P&L: $1.82 | Remaining: $337.32
+[2026-02-04T09:30:28.894Z]    ✅ FILLED: 10/10 @ 0.64
+[2026-02-04T09:30:28.894Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:28.894Z]    Position: UP=185, DOWN=185 | Balanced: 185 | Cost: $183.17 | Settlement: $185.00 | P&L: $1.83 | Remaining: $344.32
+[2026-02-04T09:30:29.010Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:29.010Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:29.210Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:29.210Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:29.261Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:29.261Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:29.261Z]    Position: UP=185, DOWN=195 | Balanced: 185 | Cost: $186.67 | Settlement: $185.00 | P&L: $-1.67 | Remaining: $340.82
+[2026-02-04T09:30:29.407Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.20)
+[2026-02-04T09:30:29.407Z]    📝 POST: 10 @ 0.62
+[2026-02-04T09:30:29.461Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:29.461Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:29.461Z]    Position: UP=193, DOWN=203 | Balanced: 193 | Cost: $194.68 | Settlement: $193.00 | P&L: $-1.68 | Remaining: $333.82
+[2026-02-04T09:30:29.490Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.20)
+[2026-02-04T09:30:29.490Z]    📝 POST: 10 @ 0.62
+[2026-02-04T09:30:29.658Z]    ✅ FILLED: 10/10 @ 0.62
+[2026-02-04T09:30:29.658Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:29.658Z]    Position: UP=195, DOWN=195 | Balanced: 195 | Cost: $192.87 | Settlement: $195.00 | P&L: $2.13 | Remaining: $334.62
+[2026-02-04T09:30:29.741Z]    ✅ FILLED: 7/10 @ 0.62
+[2026-02-04T09:30:29.741Z]    🚫 CANCELLED: 3 @ 0.62
+[2026-02-04T09:30:29.741Z]    📊 BATCH RESULT: 7/10 filled
+[2026-02-04T09:30:29.741Z]    Position: UP=200, DOWN=203 | Balanced: 200 | Cost: $199.02 | Settlement: $200.00 | P&L: $0.98 | Remaining: $329.48
+[2026-02-04T09:30:30.677Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:30.677Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:30.681Z] 🟢 POST UP: 3 shares @ 0.62 (bid)
+[2026-02-04T09:30:30.928Z]    ✅ FILLED: 10/10 @ 0.36
+[2026-02-04T09:30:30.928Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:30.928Z]    Position: UP=195, DOWN=205 | Balanced: 195 | Cost: $196.47 | Settlement: $195.00 | P&L: $-1.47 | Remaining: $331.02
+[2026-02-04T09:30:30.932Z]    ✅ FILLED: UP 3/3 @ 0.62 (maker)
+[2026-02-04T09:30:30.932Z]    Position: UP=203, DOWN=203 | Balanced: 203 | Cost: $200.88 | Settlement: $203.00 | P&L: $2.12 | Remaining: $327.62
+[2026-02-04T09:30:30.946Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:30.946Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:30.950Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.20)
+[2026-02-04T09:30:30.950Z]    📝 POST: 10 @ 0.62
+[2026-02-04T09:30:31.196Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:31.196Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:31.196Z]    Position: UP=203, DOWN=213 | Balanced: 203 | Cost: $204.38 | Settlement: $203.00 | P&L: $-1.38 | Remaining: $324.12
+[2026-02-04T09:30:31.200Z]    🚫 CANCELLED: 10 @ 0.62
+[2026-02-04T09:30:31.200Z]    ❌ NOT FILLED @ 0.62
+[2026-02-04T09:30:31.200Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:31.200Z]    Position: UP=195, DOWN=205 | Balanced: 195 | Cost: $196.47 | Settlement: $195.00 | P&L: $-1.47 | Remaining: $331.02
+[2026-02-04T09:30:31.238Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.30)
+[2026-02-04T09:30:31.238Z]    📝 POST: 10 @ 0.63
+[2026-02-04T09:30:31.239Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.30)
+[2026-02-04T09:30:31.239Z]    📝 POST: 10 @ 0.63
+[2026-02-04T09:30:31.489Z]    ✅ FILLED: 5/10 @ 0.63
+[2026-02-04T09:30:31.489Z]    🚫 CANCELLED: 5 @ 0.63
+[2026-02-04T09:30:31.489Z]    📊 BATCH RESULT: 5/10 filled
+[2026-02-04T09:30:31.489Z]    Position: UP=208, DOWN=213 | Balanced: 208 | Cost: $207.53 | Settlement: $208.00 | P&L: $0.47 | Remaining: $320.97
+[2026-02-04T09:30:31.490Z]    ✅ FILLED: 10/10 @ 0.63
+[2026-02-04T09:30:31.490Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:31.490Z]    Position: UP=205, DOWN=205 | Balanced: 205 | Cost: $202.77 | Settlement: $205.00 | P&L: $2.23 | Remaining: $324.72
+[2026-02-04T09:30:31.534Z] 🟢 POST UP: 5 shares @ 0.63 (bid)
+[2026-02-04T09:30:31.535Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:31.535Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:31.785Z]    🚫 CANCELLED: UP 5 shares (unfilled portion)
+[2026-02-04T09:30:31.785Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:31.785Z]    Position: UP=208, DOWN=213 | Balanced: 208 | Cost: $207.53 | Settlement: $208.00 | P&L: $0.47 | Remaining: $320.97
+[2026-02-04T09:30:31.786Z]    ✅ FILLED: 10/10 @ 0.36
+[2026-02-04T09:30:31.786Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:31.786Z]    Position: UP=205, DOWN=215 | Balanced: 205 | Cost: $206.37 | Settlement: $205.00 | P&L: $-1.37 | Remaining: $321.12
+[2026-02-04T09:30:31.794Z] 🟢 POST UP: 5 shares @ 0.63 (bid)
+[2026-02-04T09:30:31.795Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.30)
+[2026-02-04T09:30:31.795Z]    📝 POST: 10 @ 0.63
+[2026-02-04T09:30:32.044Z]    ✅ FILLED: UP 5/5 @ 0.63 (maker)
+[2026-02-04T09:30:32.044Z]    Position: UP=213, DOWN=213 | Balanced: 213 | Cost: $210.68 | Settlement: $213.00 | P&L: $2.32 | Remaining: $317.82
+[2026-02-04T09:30:32.045Z]    ✅ FILLED: 10/10 @ 0.63
+[2026-02-04T09:30:32.046Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:32.046Z]    Position: UP=215, DOWN=215 | Balanced: 215 | Cost: $212.67 | Settlement: $215.00 | P&L: $2.33 | Remaining: $314.82
+[2026-02-04T09:30:32.046Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:32.046Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:32.048Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:32.048Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:32.297Z]    ✅ FILLED: 6/10 @ 0.36
+[2026-02-04T09:30:32.297Z]    🚫 CANCELLED: 4 @ 0.36
+[2026-02-04T09:30:32.297Z]    📊 BATCH RESULT: 6/10 filled
+[2026-02-04T09:30:32.297Z]    Position: UP=213, DOWN=219 | Balanced: 213 | Cost: $212.84 | Settlement: $213.00 | P&L: $0.16 | Remaining: $315.66
+[2026-02-04T09:30:32.299Z]    ✅ FILLED: 6/10 @ 0.36
+[2026-02-04T09:30:32.299Z]    🚫 CANCELLED: 4 @ 0.36
+[2026-02-04T09:30:32.299Z]    📊 BATCH RESULT: 6/10 filled
+[2026-02-04T09:30:32.299Z]    Position: UP=215, DOWN=221 | Balanced: 215 | Cost: $214.83 | Settlement: $215.00 | P&L: $0.17 | Remaining: $312.66
+[2026-02-04T09:30:32.302Z] 🟢 POST UP: 6 shares @ 0.63 (bid)
+[2026-02-04T09:30:32.304Z] 🟢 POST UP: 6 shares @ 0.63 (bid)
+[2026-02-04T09:30:32.553Z]    ✅ FILLED: UP 6/6 @ 0.63 (maker)
+[2026-02-04T09:30:32.553Z]    Position: UP=221, DOWN=221 | Balanced: 221 | Cost: $218.61 | Settlement: $221.00 | P&L: $2.39 | Remaining: $308.88
+[2026-02-04T09:30:32.555Z]    ✅ FILLED: UP 6/6 @ 0.63 (maker)
+[2026-02-04T09:30:32.555Z]    Position: UP=219, DOWN=219 | Balanced: 219 | Cost: $216.62 | Settlement: $219.00 | P&L: $2.38 | Remaining: $311.88
+[2026-02-04T09:30:32.621Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:32.621Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:32.630Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:32.630Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:32.871Z]    ✅ FILLED: 10/10 @ 0.36
+[2026-02-04T09:30:32.871Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:32.871Z]    Position: UP=219, DOWN=229 | Balanced: 219 | Cost: $220.22 | Settlement: $219.00 | P&L: $-1.22 | Remaining: $308.28
+[2026-02-04T09:30:32.881Z]    ✅ FILLED: 10/10 @ 0.36
+[2026-02-04T09:30:32.881Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:32.881Z]    Position: UP=221, DOWN=231 | Balanced: 221 | Cost: $222.21 | Settlement: $221.00 | P&L: $-1.21 | Remaining: $305.28
+[2026-02-04T09:30:33.137Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.30)
+[2026-02-04T09:30:33.137Z]    📝 POST: 10 @ 0.63
+[2026-02-04T09:30:33.137Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.30)
+[2026-02-04T09:30:33.137Z]    📝 POST: 10 @ 0.63
+[2026-02-04T09:30:33.387Z]    ✅ FILLED: 10/10 @ 0.63
+[2026-02-04T09:30:33.387Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:33.387Z]    Position: UP=231, DOWN=231 | Balanced: 231 | Cost: $228.51 | Settlement: $231.00 | P&L: $2.49 | Remaining: $298.98
+[2026-02-04T09:30:33.387Z]    ✅ FILLED: 6/10 @ 0.63
+[2026-02-04T09:30:33.388Z]    🚫 CANCELLED: 4 @ 0.63
+[2026-02-04T09:30:33.388Z]    📊 BATCH RESULT: 6/10 filled
+[2026-02-04T09:30:33.388Z]    Position: UP=225, DOWN=229 | Balanced: 225 | Cost: $224.00 | Settlement: $225.00 | P&L: $1.00 | Remaining: $304.50
+[2026-02-04T09:30:33.400Z] 🟢 POST UP: 4 shares @ 0.63 (bid)
+[2026-02-04T09:30:33.401Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:33.401Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:33.650Z]    ✅ FILLED: UP 4/4 @ 0.63 (maker)
+[2026-02-04T09:30:33.650Z]    Position: UP=229, DOWN=229 | Balanced: 229 | Cost: $226.52 | Settlement: $229.00 | P&L: $2.48 | Remaining: $301.98
+[2026-02-04T09:30:33.651Z]    ✅ FILLED: 10/10 @ 0.36
+[2026-02-04T09:30:33.651Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:33.651Z]    Position: UP=231, DOWN=241 | Balanced: 231 | Cost: $232.11 | Settlement: $231.00 | P&L: $-1.11 | Remaining: $295.38
+[2026-02-04T09:30:33.652Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.30)
+[2026-02-04T09:30:33.652Z]    📝 POST: 10 @ 0.63
+[2026-02-04T09:30:33.653Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.60)
+[2026-02-04T09:30:33.654Z]    📝 POST: 10 @ 0.36
+[2026-02-04T09:30:33.903Z]    ✅ FILLED: 4/10 @ 0.63
+[2026-02-04T09:30:33.903Z]    🚫 CANCELLED: 6 @ 0.63
+[2026-02-04T09:30:33.903Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:30:33.903Z]    Position: UP=235, DOWN=241 | Balanced: 235 | Cost: $234.63 | Settlement: $235.00 | P&L: $0.37 | Remaining: $292.86
+[2026-02-04T09:30:33.904Z]    ✅ FILLED: 10/10 @ 0.36
+[2026-02-04T09:30:33.904Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:33.904Z]    Position: UP=229, DOWN=239 | Balanced: 229 | Cost: $230.12 | Settlement: $229.00 | P&L: $-1.12 | Remaining: $298.38
+[2026-02-04T09:30:33.971Z] 🟢 POST UP: 6 shares @ 0.63 (bid)
+[2026-02-04T09:30:34.175Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.30)
+[2026-02-04T09:30:34.176Z]    📝 POST: 10 @ 0.63
+[2026-02-04T09:30:34.221Z]    ✅ FILLED: UP 4/6 @ 0.63 (maker)
+[2026-02-04T09:30:34.221Z]    🚫 CANCELLED: UP 2 shares (unfilled portion)
+[2026-02-04T09:30:34.221Z]    Position: UP=239, DOWN=241 | Balanced: 239 | Cost: $237.15 | Settlement: $239.00 | P&L: $1.85 | Remaining: $290.34
+[2026-02-04T09:30:34.258Z] 🟢 POST UP: 2 shares @ 0.63 (bid)
+[2026-02-04T09:30:34.426Z]    ✅ FILLED: 10/10 @ 0.63
+[2026-02-04T09:30:34.426Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:34.426Z]    Position: UP=239, DOWN=239 | Balanced: 239 | Cost: $236.42 | Settlement: $239.00 | P&L: $2.58 | Remaining: $292.08
+[2026-02-04T09:30:34.459Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:34.459Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:34.509Z]    ✅ FILLED: UP 2/2 @ 0.63 (maker)
+[2026-02-04T09:30:34.509Z]    Position: UP=241, DOWN=241 | Balanced: 241 | Cost: $238.41 | Settlement: $241.00 | P&L: $2.59 | Remaining: $289.08
+[2026-02-04T09:30:34.520Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:34.520Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:34.709Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:34.709Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:34.710Z]    Position: UP=239, DOWN=249 | Balanced: 239 | Cost: $239.92 | Settlement: $239.00 | P&L: $-0.92 | Remaining: $288.58
+[2026-02-04T09:30:34.723Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:34.723Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:34.771Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:34.771Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:34.771Z]    Position: UP=241, DOWN=251 | Balanced: 241 | Cost: $241.91 | Settlement: $241.00 | P&L: $-0.91 | Remaining: $285.58
+[2026-02-04T09:30:34.795Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:34.795Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:34.974Z]    ✅ FILLED: 6/10 @ 0.64
+[2026-02-04T09:30:34.974Z]    🚫 CANCELLED: 4 @ 0.64
+[2026-02-04T09:30:34.974Z]    📊 BATCH RESULT: 6/10 filled
+[2026-02-04T09:30:34.974Z]    Position: UP=245, DOWN=249 | Balanced: 245 | Cost: $243.76 | Settlement: $245.00 | P&L: $1.24 | Remaining: $284.74
+[2026-02-04T09:30:35.046Z]    ✅ FILLED: 10/10 @ 0.64
+[2026-02-04T09:30:35.046Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:35.046Z]    Position: UP=251, DOWN=251 | Balanced: 251 | Cost: $248.31 | Settlement: $251.00 | P&L: $2.69 | Remaining: $279.18
+[2026-02-04T09:30:35.052Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:35.052Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:35.055Z] 🟢 POST UP: 4 shares @ 0.64 (bid)
+[2026-02-04T09:30:35.302Z]    🚫 CANCELLED: 10 @ 0.35
+[2026-02-04T09:30:35.302Z]    ❌ NOT FILLED @ 0.35
+[2026-02-04T09:30:35.303Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:35.303Z]    Position: UP=251, DOWN=251 | Balanced: 251 | Cost: $248.31 | Settlement: $251.00 | P&L: $2.69 | Remaining: $279.18
+[2026-02-04T09:30:35.306Z]    ✅ FILLED: UP 4/4 @ 0.64 (maker)
+[2026-02-04T09:30:35.306Z]    Position: UP=249, DOWN=249 | Balanced: 249 | Cost: $246.32 | Settlement: $249.00 | P&L: $2.68 | Remaining: $282.18
+[2026-02-04T09:30:35.352Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:35.353Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:35.354Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:35.354Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:35.603Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:35.603Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:35.603Z]    Position: UP=251, DOWN=261 | Balanced: 251 | Cost: $251.81 | Settlement: $251.00 | P&L: $-0.81 | Remaining: $275.68
+[2026-02-04T09:30:35.604Z]    🚫 CANCELLED: 10 @ 0.35
+[2026-02-04T09:30:35.604Z]    ❌ NOT FILLED @ 0.35
+[2026-02-04T09:30:35.604Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:35.604Z]    Position: UP=249, DOWN=249 | Balanced: 249 | Cost: $246.32 | Settlement: $249.00 | P&L: $2.68 | Remaining: $282.18
+[2026-02-04T09:30:35.710Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:35.710Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:35.713Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:35.713Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:35.961Z]    ✅ FILLED: 10/10 @ 0.64
+[2026-02-04T09:30:35.961Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:35.961Z]    Position: UP=261, DOWN=261 | Balanced: 261 | Cost: $258.21 | Settlement: $261.00 | P&L: $2.79 | Remaining: $269.28
+[2026-02-04T09:30:35.964Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:35.964Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:35.964Z]    Position: UP=249, DOWN=259 | Balanced: 249 | Cost: $249.82 | Settlement: $249.00 | P&L: $-0.82 | Remaining: $278.68
+[2026-02-04T09:30:36.012Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:36.012Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:36.016Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:36.016Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:36.263Z]    🚫 CANCELLED: 10 @ 0.35
+[2026-02-04T09:30:36.263Z]    ❌ NOT FILLED @ 0.35
+[2026-02-04T09:30:36.263Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:36.263Z]    Position: UP=261, DOWN=261 | Balanced: 261 | Cost: $258.21 | Settlement: $261.00 | P&L: $2.79 | Remaining: $269.28
+[2026-02-04T09:30:36.266Z]    ✅ FILLED: 10/10 @ 0.64
+[2026-02-04T09:30:36.266Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:36.266Z]    Position: UP=259, DOWN=259 | Balanced: 259 | Cost: $256.22 | Settlement: $259.00 | P&L: $2.78 | Remaining: $272.28
+[2026-02-04T09:30:36.281Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:36.281Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:36.287Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:36.288Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:36.532Z]    ✅ FILLED: 7/10 @ 0.35
+[2026-02-04T09:30:36.532Z]    🚫 CANCELLED: 3 @ 0.35
+[2026-02-04T09:30:36.532Z]    📊 BATCH RESULT: 7/10 filled
+[2026-02-04T09:30:36.532Z]    Position: UP=261, DOWN=268 | Balanced: 261 | Cost: $260.66 | Settlement: $261.00 | P&L: $0.34 | Remaining: $266.83
+[2026-02-04T09:30:36.538Z]    🚫 CANCELLED: 10 @ 0.35
+[2026-02-04T09:30:36.538Z]    ❌ NOT FILLED @ 0.35
+[2026-02-04T09:30:36.538Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:36.538Z]    Position: UP=259, DOWN=259 | Balanced: 259 | Cost: $256.22 | Settlement: $259.00 | P&L: $2.78 | Remaining: $272.28
+[2026-02-04T09:30:36.649Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:36.649Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:36.662Z] 🟢 POST UP: 7 shares @ 0.64 (bid)
+[2026-02-04T09:30:36.899Z]    🚫 CANCELLED: 10 @ 0.35
+[2026-02-04T09:30:36.900Z]    ❌ NOT FILLED @ 0.35
+[2026-02-04T09:30:36.900Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:36.900Z]    Position: UP=259, DOWN=259 | Balanced: 259 | Cost: $256.22 | Settlement: $259.00 | P&L: $2.78 | Remaining: $272.28
+[2026-02-04T09:30:36.912Z]    ✅ FILLED: UP 2/7 @ 0.64 (maker)
+[2026-02-04T09:30:36.912Z]    🚫 CANCELLED: UP 5 shares (unfilled portion)
+[2026-02-04T09:30:36.912Z]    Position: UP=263, DOWN=268 | Balanced: 263 | Cost: $261.94 | Settlement: $263.00 | P&L: $1.06 | Remaining: $265.55
+[2026-02-04T09:30:36.918Z] 🟢 POST UP: 5 shares @ 0.64 (bid)
+[2026-02-04T09:30:36.927Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:36.927Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:37.169Z]    ✅ FILLED: UP 5/5 @ 0.64 (maker)
+[2026-02-04T09:30:37.169Z]    Position: UP=268, DOWN=268 | Balanced: 268 | Cost: $265.14 | Settlement: $268.00 | P&L: $2.86 | Remaining: $262.35
+[2026-02-04T09:30:37.177Z]    🚫 CANCELLED: 10 @ 0.35
+[2026-02-04T09:30:37.177Z]    ❌ NOT FILLED @ 0.35
+[2026-02-04T09:30:37.177Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:37.177Z]    Position: UP=259, DOWN=259 | Balanced: 259 | Cost: $256.22 | Settlement: $259.00 | P&L: $2.78 | Remaining: $272.28
+[2026-02-04T09:30:37.405Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:37.405Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:37.529Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:37.529Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:37.656Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:37.656Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:37.656Z]    Position: UP=259, DOWN=269 | Balanced: 259 | Cost: $259.72 | Settlement: $259.00 | P&L: $-0.72 | Remaining: $268.78
+[2026-02-04T09:30:37.679Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:37.679Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:37.779Z]    🚫 CANCELLED: 10 @ 0.35
+[2026-02-04T09:30:37.779Z]    ❌ NOT FILLED @ 0.35
+[2026-02-04T09:30:37.780Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:37.780Z]    Position: UP=268, DOWN=268 | Balanced: 268 | Cost: $265.14 | Settlement: $268.00 | P&L: $2.86 | Remaining: $262.35
+[2026-02-04T09:30:37.931Z]    ✅ FILLED: 10/10 @ 0.64
+[2026-02-04T09:30:37.931Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:37.931Z]    Position: UP=269, DOWN=269 | Balanced: 269 | Cost: $266.12 | Settlement: $269.00 | P&L: $2.88 | Remaining: $262.38
+[2026-02-04T09:30:38.060Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:38.060Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:38.065Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:38.065Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:38.311Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:38.311Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:38.311Z]    Position: UP=268, DOWN=278 | Balanced: 268 | Cost: $268.64 | Settlement: $268.00 | P&L: $-0.64 | Remaining: $258.85
+[2026-02-04T09:30:38.315Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:38.315Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:38.315Z]    Position: UP=269, DOWN=279 | Balanced: 269 | Cost: $269.62 | Settlement: $269.00 | P&L: $-0.62 | Remaining: $258.88
+[2026-02-04T09:30:38.826Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:38.826Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:38.832Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:38.832Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:39.077Z]    ✅ FILLED: 10/10 @ 0.64
+[2026-02-04T09:30:39.077Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:39.077Z]    Position: UP=278, DOWN=278 | Balanced: 278 | Cost: $275.04 | Settlement: $278.00 | P&L: $2.96 | Remaining: $252.45
+[2026-02-04T09:30:39.082Z]    ✅ FILLED: 10/10 @ 0.64
+[2026-02-04T09:30:39.082Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:39.082Z]    Position: UP=279, DOWN=279 | Balanced: 279 | Cost: $276.02 | Settlement: $279.00 | P&L: $2.98 | Remaining: $252.48
+[2026-02-04T09:30:39.142Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:39.142Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:39.147Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:39.147Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:39.393Z]    ✅ FILLED: 10/10 @ 0.35
+[2026-02-04T09:30:39.393Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:39.393Z]    Position: UP=278, DOWN=288 | Balanced: 278 | Cost: $278.54 | Settlement: $278.00 | P&L: $-0.54 | Remaining: $248.95
+[2026-02-04T09:30:39.397Z]    🚫 CANCELLED: 10 @ 0.35
+[2026-02-04T09:30:39.398Z]    ❌ NOT FILLED @ 0.35
+[2026-02-04T09:30:39.398Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:39.398Z]    Position: UP=279, DOWN=279 | Balanced: 279 | Cost: $276.02 | Settlement: $279.00 | P&L: $2.98 | Remaining: $252.48
+[2026-02-04T09:30:39.426Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.40)
+[2026-02-04T09:30:39.426Z]    📝 POST: 10 @ 0.64
+[2026-02-04T09:30:39.430Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.50)
+[2026-02-04T09:30:39.431Z]    📝 POST: 10 @ 0.35
+[2026-02-04T09:30:39.676Z]    ✅ FILLED: 7/10 @ 0.64
+[2026-02-04T09:30:39.677Z]    🚫 CANCELLED: 3 @ 0.64
+[2026-02-04T09:30:39.677Z]    📊 BATCH RESULT: 7/10 filled
+[2026-02-04T09:30:39.677Z]    Position: UP=285, DOWN=288 | Balanced: 285 | Cost: $283.02 | Settlement: $285.00 | P&L: $1.98 | Remaining: $244.47
+[2026-02-04T09:30:39.681Z]    🚫 CANCELLED: 10 @ 0.35
+[2026-02-04T09:30:39.681Z]    ❌ NOT FILLED @ 0.35
+[2026-02-04T09:30:39.681Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:39.681Z]    Position: UP=279, DOWN=279 | Balanced: 279 | Cost: $276.02 | Settlement: $279.00 | P&L: $2.98 | Remaining: $252.48
+[2026-02-04T09:30:39.689Z] 🟢 POST UP: 3 shares @ 0.65 (bid)
+[2026-02-04T09:30:39.693Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:39.693Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:39.939Z]    ✅ FILLED: UP 3/3 @ 0.65 (maker)
+[2026-02-04T09:30:39.939Z]    Position: UP=288, DOWN=288 | Balanced: 288 | Cost: $284.97 | Settlement: $288.00 | P&L: $3.03 | Remaining: $242.52
+[2026-02-04T09:30:39.943Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:39.943Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:39.943Z]    Position: UP=279, DOWN=289 | Balanced: 279 | Cost: $279.42 | Settlement: $279.00 | P&L: $-0.42 | Remaining: $249.08
+[2026-02-04T09:30:40.034Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:40.034Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:40.038Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:40.038Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:40.285Z]    🚫 CANCELLED: 10 @ 0.34
+[2026-02-04T09:30:40.285Z]    ❌ NOT FILLED @ 0.34
+[2026-02-04T09:30:40.285Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:40.285Z]    Position: UP=288, DOWN=288 | Balanced: 288 | Cost: $284.97 | Settlement: $288.00 | P&L: $3.03 | Remaining: $242.52
+[2026-02-04T09:30:40.289Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:40.289Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:40.289Z]    Position: UP=289, DOWN=289 | Balanced: 289 | Cost: $285.92 | Settlement: $289.00 | P&L: $3.08 | Remaining: $242.58
+[2026-02-04T09:30:40.339Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:40.339Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:40.347Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:40.347Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:40.589Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:40.589Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:40.589Z]    Position: UP=288, DOWN=298 | Balanced: 288 | Cost: $288.37 | Settlement: $288.00 | P&L: $-0.37 | Remaining: $239.12
+[2026-02-04T09:30:40.598Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:40.598Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:40.598Z]    Position: UP=289, DOWN=299 | Balanced: 289 | Cost: $289.32 | Settlement: $289.00 | P&L: $-0.32 | Remaining: $239.18
+[2026-02-04T09:30:40.694Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:40.694Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:40.698Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:40.698Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:40.945Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:40.945Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:40.945Z]    Position: UP=298, DOWN=298 | Balanced: 298 | Cost: $294.87 | Settlement: $298.00 | P&L: $3.13 | Remaining: $232.62
+[2026-02-04T09:30:40.949Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:40.949Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:40.949Z]    Position: UP=299, DOWN=299 | Balanced: 299 | Cost: $295.82 | Settlement: $299.00 | P&L: $3.18 | Remaining: $232.68
+[2026-02-04T09:30:41.001Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:41.001Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:41.004Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:41.004Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:41.251Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:41.252Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:41.252Z]    Position: UP=298, DOWN=308 | Balanced: 298 | Cost: $298.27 | Settlement: $298.00 | P&L: $-0.27 | Remaining: $229.22
+[2026-02-04T09:30:41.255Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:41.255Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:41.255Z]    Position: UP=299, DOWN=309 | Balanced: 299 | Cost: $299.22 | Settlement: $299.00 | P&L: $-0.22 | Remaining: $229.28
+[2026-02-04T09:30:41.582Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:41.582Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:41.585Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:41.585Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:41.832Z]    🚫 CANCELLED: 10 @ 0.65
+[2026-02-04T09:30:41.832Z]    ❌ NOT FILLED @ 0.65
+[2026-02-04T09:30:41.832Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:41.832Z]    Position: UP=298, DOWN=308 | Balanced: 298 | Cost: $298.27 | Settlement: $298.00 | P&L: $-0.27 | Remaining: $229.22
+[2026-02-04T09:30:41.836Z]    ✅ FILLED: 5/10 @ 0.65
+[2026-02-04T09:30:41.836Z]    🚫 CANCELLED: 5 @ 0.65
+[2026-02-04T09:30:41.836Z]    📊 BATCH RESULT: 5/10 filled
+[2026-02-04T09:30:41.836Z]    Position: UP=304, DOWN=309 | Balanced: 304 | Cost: $302.47 | Settlement: $304.00 | P&L: $1.53 | Remaining: $226.03
+[2026-02-04T09:30:41.872Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:41.872Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:41.876Z] 🟢 POST UP: 5 shares @ 0.65 (bid)
+[2026-02-04T09:30:42.123Z]    🚫 CANCELLED: 10 @ 0.65
+[2026-02-04T09:30:42.123Z]    ❌ NOT FILLED @ 0.65
+[2026-02-04T09:30:42.123Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:42.123Z]    Position: UP=298, DOWN=308 | Balanced: 298 | Cost: $298.27 | Settlement: $298.00 | P&L: $-0.27 | Remaining: $229.22
+[2026-02-04T09:30:42.127Z]    ✅ FILLED: UP 5/5 @ 0.65 (maker)
+[2026-02-04T09:30:42.127Z]    Position: UP=309, DOWN=309 | Balanced: 309 | Cost: $305.72 | Settlement: $309.00 | P&L: $3.28 | Remaining: $222.78
+[2026-02-04T09:30:42.144Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:42.144Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:42.146Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:42.146Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:42.395Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:42.395Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:42.395Z]    Position: UP=308, DOWN=308 | Balanced: 308 | Cost: $304.77 | Settlement: $308.00 | P&L: $3.23 | Remaining: $222.72
+[2026-02-04T09:30:42.396Z]    🚫 CANCELLED: 10 @ 0.34
+[2026-02-04T09:30:42.396Z]    ❌ NOT FILLED @ 0.34
+[2026-02-04T09:30:42.396Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:42.396Z]    Position: UP=309, DOWN=309 | Balanced: 309 | Cost: $305.72 | Settlement: $309.00 | P&L: $3.28 | Remaining: $222.78
+[2026-02-04T09:30:42.565Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:42.566Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:42.568Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:42.568Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:42.816Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:42.817Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:42.817Z]    Position: UP=309, DOWN=319 | Balanced: 309 | Cost: $309.12 | Settlement: $309.00 | P&L: $-0.12 | Remaining: $219.38
+[2026-02-04T09:30:42.818Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:42.818Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:42.818Z]    Position: UP=308, DOWN=318 | Balanced: 308 | Cost: $308.17 | Settlement: $308.00 | P&L: $-0.17 | Remaining: $219.32
+[2026-02-04T09:30:42.995Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:42.995Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:42.997Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:42.997Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:43.246Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:43.246Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:43.246Z]    Position: UP=318, DOWN=318 | Balanced: 318 | Cost: $314.67 | Settlement: $318.00 | P&L: $3.33 | Remaining: $212.82
+[2026-02-04T09:30:43.247Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:43.247Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:43.247Z]    Position: UP=319, DOWN=319 | Balanced: 319 | Cost: $315.62 | Settlement: $319.00 | P&L: $3.38 | Remaining: $212.88
+[2026-02-04T09:30:43.324Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:43.324Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:43.326Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:43.327Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:43.575Z]    ✅ FILLED: 5/10 @ 0.34
+[2026-02-04T09:30:43.575Z]    🚫 CANCELLED: 5 @ 0.34
+[2026-02-04T09:30:43.575Z]    📊 BATCH RESULT: 5/10 filled
+[2026-02-04T09:30:43.575Z]    Position: UP=318, DOWN=323 | Balanced: 318 | Cost: $316.37 | Settlement: $318.00 | P&L: $1.63 | Remaining: $211.12
+[2026-02-04T09:30:43.577Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:43.577Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:43.577Z]    Position: UP=319, DOWN=329 | Balanced: 319 | Cost: $319.02 | Settlement: $319.00 | P&L: $-0.02 | Remaining: $209.48
+[2026-02-04T09:30:43.600Z] 🟢 POST UP: 5 shares @ 0.65 (bid)
+[2026-02-04T09:30:43.602Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:43.602Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:43.851Z]    ✅ FILLED: UP 5/5 @ 0.65 (maker)
+[2026-02-04T09:30:43.851Z]    Position: UP=323, DOWN=323 | Balanced: 323 | Cost: $319.62 | Settlement: $323.00 | P&L: $3.38 | Remaining: $207.87
+[2026-02-04T09:30:43.852Z]    🚫 CANCELLED: 10 @ 0.65
+[2026-02-04T09:30:43.853Z]    ❌ NOT FILLED @ 0.65
+[2026-02-04T09:30:43.853Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:43.853Z]    Position: UP=319, DOWN=329 | Balanced: 319 | Cost: $319.02 | Settlement: $319.00 | P&L: $-0.02 | Remaining: $209.48
+[2026-02-04T09:30:44.058Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:44.058Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:44.163Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:44.163Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:44.308Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:44.308Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:44.308Z]    Position: UP=323, DOWN=333 | Balanced: 323 | Cost: $323.02 | Settlement: $323.00 | P&L: $-0.02 | Remaining: $204.47
+[2026-02-04T09:30:44.413Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:44.414Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:44.414Z]    Position: UP=329, DOWN=329 | Balanced: 329 | Cost: $325.52 | Settlement: $329.00 | P&L: $3.48 | Remaining: $202.98
+[2026-02-04T09:30:44.648Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:44.648Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:44.649Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:44.649Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:44.899Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:44.899Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:44.899Z]    Position: UP=333, DOWN=333 | Balanced: 333 | Cost: $329.52 | Settlement: $333.00 | P&L: $3.48 | Remaining: $197.97
+[2026-02-04T09:30:44.900Z]    ✅ FILLED: 4/10 @ 0.34
+[2026-02-04T09:30:44.900Z]    🚫 CANCELLED: 6 @ 0.34
+[2026-02-04T09:30:44.900Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:30:44.900Z]    Position: UP=329, DOWN=333 | Balanced: 329 | Cost: $326.88 | Settlement: $329.00 | P&L: $2.12 | Remaining: $201.62
+[2026-02-04T09:30:44.958Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:44.958Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:44.960Z] 🟢 POST UP: 4 shares @ 0.65 (bid)
+[2026-02-04T09:30:45.209Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:45.209Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:45.209Z]    Position: UP=333, DOWN=343 | Balanced: 333 | Cost: $332.92 | Settlement: $333.00 | P&L: $0.08 | Remaining: $194.57
+[2026-02-04T09:30:45.210Z]    ✅ FILLED: UP 4/4 @ 0.65 (maker)
+[2026-02-04T09:30:45.210Z]    Position: UP=333, DOWN=333 | Balanced: 333 | Cost: $329.48 | Settlement: $333.00 | P&L: $3.52 | Remaining: $199.02
+[2026-02-04T09:30:45.473Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.50)
+[2026-02-04T09:30:45.473Z]    📝 POST: 10 @ 0.65
+[2026-02-04T09:30:45.476Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:45.476Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:45.723Z]    ✅ FILLED: 10/10 @ 0.65
+[2026-02-04T09:30:45.724Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:45.724Z]    Position: UP=343, DOWN=343 | Balanced: 343 | Cost: $339.42 | Settlement: $343.00 | P&L: $3.58 | Remaining: $188.07
+[2026-02-04T09:30:45.727Z]    ✅ FILLED: 8/10 @ 0.34
+[2026-02-04T09:30:45.727Z]    🚫 CANCELLED: 2 @ 0.34
+[2026-02-04T09:30:45.727Z]    📊 BATCH RESULT: 8/10 filled
+[2026-02-04T09:30:45.727Z]    Position: UP=333, DOWN=341 | Balanced: 333 | Cost: $332.20 | Settlement: $333.00 | P&L: $0.80 | Remaining: $196.30
+[2026-02-04T09:30:45.793Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.40)
+[2026-02-04T09:30:45.793Z]    📝 POST: 10 @ 0.34
+[2026-02-04T09:30:45.794Z] 🟢 POST UP: 8 shares @ 0.65 (bid)
+[2026-02-04T09:30:46.043Z]    ✅ FILLED: 10/10 @ 0.34
+[2026-02-04T09:30:46.043Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:46.044Z]    Position: UP=343, DOWN=353 | Balanced: 343 | Cost: $342.82 | Settlement: $343.00 | P&L: $0.18 | Remaining: $184.67
+[2026-02-04T09:30:46.044Z]    ✅ FILLED: UP 8/8 @ 0.65 (maker)
+[2026-02-04T09:30:46.045Z]    Position: UP=341, DOWN=341 | Balanced: 341 | Cost: $337.40 | Settlement: $341.00 | P&L: $3.60 | Remaining: $191.10
+[2026-02-04T09:30:46.558Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.30)
+[2026-02-04T09:30:46.559Z]    📝 POST: 10 @ 0.33
+[2026-02-04T09:30:46.559Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.60)
+[2026-02-04T09:30:46.559Z]    📝 POST: 10 @ 0.66
+[2026-02-04T09:30:46.809Z]    ✅ FILLED: 10/10 @ 0.33
+[2026-02-04T09:30:46.809Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:46.809Z]    Position: UP=341, DOWN=351 | Balanced: 341 | Cost: $340.70 | Settlement: $341.00 | P&L: $0.30 | Remaining: $187.80
+[2026-02-04T09:30:46.809Z]    🚫 CANCELLED: 10 @ 0.66
+[2026-02-04T09:30:46.809Z]    ❌ NOT FILLED @ 0.66
+[2026-02-04T09:30:46.809Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:46.809Z]    Position: UP=343, DOWN=353 | Balanced: 343 | Cost: $342.82 | Settlement: $343.00 | P&L: $0.18 | Remaining: $184.67
+[2026-02-04T09:30:46.913Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.60)
+[2026-02-04T09:30:46.914Z]    📝 POST: 10 @ 0.66
+[2026-02-04T09:30:46.937Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.60)
+[2026-02-04T09:30:46.937Z]    📝 POST: 10 @ 0.66
+[2026-02-04T09:30:47.164Z]    ✅ FILLED: 7/10 @ 0.66
+[2026-02-04T09:30:47.164Z]    🚫 CANCELLED: 3 @ 0.66
+[2026-02-04T09:30:47.164Z]    📊 BATCH RESULT: 7/10 filled
+[2026-02-04T09:30:47.165Z]    Position: UP=348, DOWN=351 | Balanced: 348 | Cost: $345.32 | Settlement: $348.00 | P&L: $2.68 | Remaining: $183.18
+[2026-02-04T09:30:47.184Z] 🟢 POST UP: 3 shares @ 0.66 (bid)
+[2026-02-04T09:30:47.187Z]    ✅ FILLED: 3/10 @ 0.66
+[2026-02-04T09:30:47.187Z]    🚫 CANCELLED: 7 @ 0.66
+[2026-02-04T09:30:47.187Z]    📊 BATCH RESULT: 3/10 filled
+[2026-02-04T09:30:47.187Z]    Position: UP=346, DOWN=353 | Balanced: 346 | Cost: $344.80 | Settlement: $346.00 | P&L: $1.20 | Remaining: $182.69
+[2026-02-04T09:30:47.284Z] 🟢 POST UP: 7 shares @ 0.66 (bid)
+[2026-02-04T09:30:47.434Z]    ✅ FILLED: UP 3/3 @ 0.66 (maker)
+[2026-02-04T09:30:47.434Z]    Position: UP=351, DOWN=351 | Balanced: 351 | Cost: $347.30 | Settlement: $351.00 | P&L: $3.70 | Remaining: $181.20
+[2026-02-04T09:30:47.494Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.30)
+[2026-02-04T09:30:47.494Z]    📝 POST: 10 @ 0.33
+[2026-02-04T09:30:47.534Z]    🚫 CANCELLED: UP 7 shares (unfilled portion)
+[2026-02-04T09:30:47.534Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:47.535Z]    Position: UP=346, DOWN=353 | Balanced: 346 | Cost: $344.80 | Settlement: $346.00 | P&L: $1.20 | Remaining: $182.69
+[2026-02-04T09:30:47.570Z] 🟢 POST UP: 7 shares @ 0.66 (bid)
+[2026-02-04T09:30:47.744Z]    ✅ FILLED: 3/10 @ 0.33
+[2026-02-04T09:30:47.745Z]    🚫 CANCELLED: 7 @ 0.33
+[2026-02-04T09:30:47.745Z]    📊 BATCH RESULT: 3/10 filled
+[2026-02-04T09:30:47.745Z]    Position: UP=351, DOWN=354 | Balanced: 351 | Cost: $348.29 | Settlement: $351.00 | P&L: $2.71 | Remaining: $180.21
+[2026-02-04T09:30:47.822Z]    ✅ FILLED: UP 2/7 @ 0.66 (maker)
+[2026-02-04T09:30:47.822Z]    🚫 CANCELLED: UP 5 shares (unfilled portion)
+[2026-02-04T09:30:47.822Z]    Position: UP=348, DOWN=353 | Balanced: 348 | Cost: $346.12 | Settlement: $348.00 | P&L: $1.88 | Remaining: $181.37
+[2026-02-04T09:30:48.403Z] 🟢 POST UP: 3 shares @ 0.68 (bid)
+[2026-02-04T09:30:48.404Z] 🟢 POST UP: 5 shares @ 0.68 (bid)
+[2026-02-04T09:30:48.653Z]    🚫 CANCELLED: UP 3 shares (unfilled portion)
+[2026-02-04T09:30:48.653Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:48.654Z]    Position: UP=351, DOWN=354 | Balanced: 351 | Cost: $348.29 | Settlement: $351.00 | P&L: $2.71 | Remaining: $180.21
+[2026-02-04T09:30:48.654Z]    🚫 CANCELLED: UP 5 shares (unfilled portion)
+[2026-02-04T09:30:48.654Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:48.654Z]    Position: UP=348, DOWN=353 | Balanced: 348 | Cost: $346.12 | Settlement: $348.00 | P&L: $1.88 | Remaining: $181.37
+[2026-02-04T09:30:48.692Z] 🟢 POST UP: 5 shares @ 0.68 (bid)
+[2026-02-04T09:30:48.694Z] 🟢 POST UP: 3 shares @ 0.68 (bid)
+[2026-02-04T09:30:48.943Z]    🚫 CANCELLED: UP 5 shares (unfilled portion)
+[2026-02-04T09:30:48.943Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:48.943Z]    Position: UP=348, DOWN=353 | Balanced: 348 | Cost: $346.12 | Settlement: $348.00 | P&L: $1.88 | Remaining: $181.37
+[2026-02-04T09:30:48.944Z]    🚫 CANCELLED: UP 3 shares (unfilled portion)
+[2026-02-04T09:30:48.944Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:48.945Z]    Position: UP=351, DOWN=354 | Balanced: 351 | Cost: $348.29 | Settlement: $351.00 | P&L: $2.71 | Remaining: $180.21
+[2026-02-04T09:30:48.949Z] 🟢 POST UP: 5 shares @ 0.68 (bid)
+[2026-02-04T09:30:49.166Z] 🟢 POST UP: 3 shares @ 0.68 (bid)
+[2026-02-04T09:30:49.200Z]    ✅ FILLED: UP 5/5 @ 0.68 (maker)
+[2026-02-04T09:30:49.200Z]    Position: UP=353, DOWN=353 | Balanced: 353 | Cost: $349.52 | Settlement: $353.00 | P&L: $3.48 | Remaining: $177.97
+[2026-02-04T09:30:49.228Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.10)
+[2026-02-04T09:30:49.228Z]    📝 POST: 10 @ 0.31
+[2026-02-04T09:30:49.416Z]    🚫 CANCELLED: UP 3 shares (unfilled portion)
+[2026-02-04T09:30:49.417Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:49.417Z]    Position: UP=351, DOWN=354 | Balanced: 351 | Cost: $348.29 | Settlement: $351.00 | P&L: $2.71 | Remaining: $180.21
+[2026-02-04T09:30:49.417Z] 🟢 POST UP: 3 shares @ 0.68 (bid)
+[2026-02-04T09:30:49.478Z]    ✅ FILLED: 10/10 @ 0.31
+[2026-02-04T09:30:49.478Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:49.478Z]    Position: UP=353, DOWN=363 | Balanced: 353 | Cost: $352.62 | Settlement: $353.00 | P&L: $0.38 | Remaining: $174.87
+[2026-02-04T09:30:49.627Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.80)
+[2026-02-04T09:30:49.627Z]    📝 POST: 10 @ 0.68
+[2026-02-04T09:30:49.667Z]    🚫 CANCELLED: UP 3 shares (unfilled portion)
+[2026-02-04T09:30:49.667Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:49.667Z]    Position: UP=351, DOWN=354 | Balanced: 351 | Cost: $348.29 | Settlement: $351.00 | P&L: $2.71 | Remaining: $180.21
+[2026-02-04T09:30:49.673Z] 🟢 POST UP: 3 shares @ 0.68 (bid)
+[2026-02-04T09:30:49.877Z]    ✅ FILLED: 10/10 @ 0.68
+[2026-02-04T09:30:49.877Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:49.877Z]    Position: UP=363, DOWN=363 | Balanced: 363 | Cost: $359.42 | Settlement: $363.00 | P&L: $3.58 | Remaining: $168.07
+[2026-02-04T09:30:49.923Z]    ✅ FILLED: UP 3/3 @ 0.68 (maker)
+[2026-02-04T09:30:49.923Z]    Position: UP=354, DOWN=354 | Balanced: 354 | Cost: $350.33 | Settlement: $354.00 | P&L: $3.67 | Remaining: $178.17
+[2026-02-04T09:30:50.338Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:50.339Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:50.340Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:50.340Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:50.589Z]    ✅ FILLED: 6/10 @ 0.3
+[2026-02-04T09:30:50.589Z]    🚫 CANCELLED: 4 @ 0.3
+[2026-02-04T09:30:50.589Z]    📊 BATCH RESULT: 6/10 filled
+[2026-02-04T09:30:50.589Z]    Position: UP=354, DOWN=360 | Balanced: 354 | Cost: $352.13 | Settlement: $354.00 | P&L: $1.87 | Remaining: $176.37
+[2026-02-04T09:30:50.591Z]    🚫 CANCELLED: 10 @ 0.3
+[2026-02-04T09:30:50.591Z]    ❌ NOT FILLED @ 0.3
+[2026-02-04T09:30:50.591Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:50.591Z]    Position: UP=363, DOWN=363 | Balanced: 363 | Cost: $359.42 | Settlement: $363.00 | P&L: $3.58 | Remaining: $168.07
+[2026-02-04T09:30:50.999Z] 🟢 POST UP: 6 shares @ 0.69 (bid)
+[2026-02-04T09:30:51.005Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:51.005Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:51.250Z]    ✅ FILLED: UP 6/6 @ 0.69 (maker)
+[2026-02-04T09:30:51.250Z]    Position: UP=360, DOWN=360 | Balanced: 360 | Cost: $356.27 | Settlement: $360.00 | P&L: $3.73 | Remaining: $172.23
+[2026-02-04T09:30:51.256Z]    ✅ FILLED: 10/10 @ 0.3
+[2026-02-04T09:30:51.256Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:51.256Z]    Position: UP=363, DOWN=373 | Balanced: 363 | Cost: $362.42 | Settlement: $363.00 | P&L: $0.58 | Remaining: $165.07
+[2026-02-04T09:30:51.403Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:51.403Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:51.404Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.90)
+[2026-02-04T09:30:51.404Z]    📝 POST: 10 @ 0.69
+[2026-02-04T09:30:51.654Z]    🚫 CANCELLED: 10 @ 0.3
+[2026-02-04T09:30:51.654Z]    ❌ NOT FILLED @ 0.3
+[2026-02-04T09:30:51.654Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:51.654Z]    Position: UP=360, DOWN=360 | Balanced: 360 | Cost: $356.27 | Settlement: $360.00 | P&L: $3.73 | Remaining: $172.23
+[2026-02-04T09:30:51.655Z]    🚫 CANCELLED: 10 @ 0.69
+[2026-02-04T09:30:51.655Z]    ❌ NOT FILLED @ 0.69
+[2026-02-04T09:30:51.655Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:51.655Z]    Position: UP=363, DOWN=373 | Balanced: 363 | Cost: $362.42 | Settlement: $363.00 | P&L: $0.58 | Remaining: $165.07
+[2026-02-04T09:30:51.683Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:51.683Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:51.683Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.90)
+[2026-02-04T09:30:51.684Z]    📝 POST: 10 @ 0.69
+[2026-02-04T09:30:51.933Z]    ✅ FILLED: 10/10 @ 0.3
+[2026-02-04T09:30:51.934Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:51.934Z]    Position: UP=360, DOWN=370 | Balanced: 360 | Cost: $359.27 | Settlement: $360.00 | P&L: $0.73 | Remaining: $169.23
+[2026-02-04T09:30:51.934Z]    ✅ FILLED: 10/10 @ 0.69
+[2026-02-04T09:30:51.934Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:51.934Z]    Position: UP=373, DOWN=373 | Balanced: 373 | Cost: $369.32 | Settlement: $373.00 | P&L: $3.68 | Remaining: $158.17
+[2026-02-04T09:30:52.077Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.90)
+[2026-02-04T09:30:52.077Z]    📝 POST: 10 @ 0.69
+[2026-02-04T09:30:52.079Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:52.079Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:52.327Z]    ✅ FILLED: 7/10 @ 0.69
+[2026-02-04T09:30:52.327Z]    🚫 CANCELLED: 3 @ 0.69
+[2026-02-04T09:30:52.327Z]    📊 BATCH RESULT: 7/10 filled
+[2026-02-04T09:30:52.327Z]    Position: UP=367, DOWN=370 | Balanced: 367 | Cost: $364.10 | Settlement: $367.00 | P&L: $2.90 | Remaining: $164.40
+[2026-02-04T09:30:52.329Z]    ✅ FILLED: 10/10 @ 0.3
+[2026-02-04T09:30:52.329Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:52.329Z]    Position: UP=373, DOWN=383 | Balanced: 373 | Cost: $372.32 | Settlement: $373.00 | P&L: $0.68 | Remaining: $155.17
+[2026-02-04T09:30:52.558Z] 🟢 POST UP: 3 shares @ 0.69 (bid)
+[2026-02-04T09:30:52.558Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.90)
+[2026-02-04T09:30:52.559Z]    📝 POST: 10 @ 0.69
+[2026-02-04T09:30:52.808Z]    🚫 CANCELLED: UP 3 shares (unfilled portion)
+[2026-02-04T09:30:52.808Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:52.808Z]    Position: UP=367, DOWN=370 | Balanced: 367 | Cost: $364.10 | Settlement: $367.00 | P&L: $2.90 | Remaining: $164.40
+[2026-02-04T09:30:52.809Z]    🚫 CANCELLED: 10 @ 0.69
+[2026-02-04T09:30:52.809Z]    ❌ NOT FILLED @ 0.69
+[2026-02-04T09:30:52.809Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:52.809Z]    Position: UP=373, DOWN=383 | Balanced: 373 | Cost: $372.32 | Settlement: $373.00 | P&L: $0.68 | Remaining: $155.17
+[2026-02-04T09:30:53.126Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.90)
+[2026-02-04T09:30:53.127Z]    📝 POST: 10 @ 0.69
+[2026-02-04T09:30:53.140Z] 🟢 POST UP: 3 shares @ 0.69 (bid)
+[2026-02-04T09:30:53.377Z]    ✅ FILLED: 10/10 @ 0.69
+[2026-02-04T09:30:53.377Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:53.377Z]    Position: UP=383, DOWN=383 | Balanced: 383 | Cost: $379.22 | Settlement: $383.00 | P&L: $3.78 | Remaining: $148.27
+[2026-02-04T09:30:53.391Z]    ✅ FILLED: UP 1/3 @ 0.69 (maker)
+[2026-02-04T09:30:53.391Z]    🚫 CANCELLED: UP 2 shares (unfilled portion)
+[2026-02-04T09:30:53.391Z]    Position: UP=368, DOWN=370 | Balanced: 368 | Cost: $364.79 | Settlement: $368.00 | P&L: $3.21 | Remaining: $163.71
+[2026-02-04T09:30:53.784Z] 🟢 POST UP: 2 shares @ 0.69 (bid)
+[2026-02-04T09:30:53.810Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:53.810Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:54.035Z]    ✅ FILLED: UP 2/2 @ 0.69 (maker)
+[2026-02-04T09:30:54.035Z]    Position: UP=370, DOWN=370 | Balanced: 370 | Cost: $366.17 | Settlement: $370.00 | P&L: $3.83 | Remaining: $162.33
+[2026-02-04T09:30:54.061Z]    🚫 CANCELLED: 10 @ 0.3
+[2026-02-04T09:30:54.062Z]    ❌ NOT FILLED @ 0.3
+[2026-02-04T09:30:54.062Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:54.062Z]    Position: UP=383, DOWN=383 | Balanced: 383 | Cost: $379.22 | Settlement: $383.00 | P&L: $3.78 | Remaining: $148.27
+[2026-02-04T09:30:54.295Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:54.295Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:54.300Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:54.300Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:54.545Z]    ✅ FILLED: 10/10 @ 0.3
+[2026-02-04T09:30:54.546Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:54.546Z]    Position: UP=370, DOWN=380 | Balanced: 370 | Cost: $369.17 | Settlement: $370.00 | P&L: $0.83 | Remaining: $159.33
+[2026-02-04T09:30:54.550Z]    ✅ FILLED: 10/10 @ 0.3
+[2026-02-04T09:30:54.550Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:54.551Z]    Position: UP=383, DOWN=393 | Balanced: 383 | Cost: $382.22 | Settlement: $383.00 | P&L: $0.78 | Remaining: $145.27
+[2026-02-04T09:30:54.576Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.70)
+[2026-02-04T09:30:54.576Z]    📝 POST: 10 @ 0.67
+[2026-02-04T09:30:54.739Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.70)
+[2026-02-04T09:30:54.739Z]    📝 POST: 10 @ 0.67
+[2026-02-04T09:30:54.827Z]    ✅ FILLED: 10/10 @ 0.67
+[2026-02-04T09:30:54.827Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:54.827Z]    Position: UP=380, DOWN=380 | Balanced: 380 | Cost: $375.87 | Settlement: $380.00 | P&L: $4.13 | Remaining: $152.63
+[2026-02-04T09:30:54.899Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.10)
+[2026-02-04T09:30:54.900Z]    📝 POST: 10 @ 0.31
+[2026-02-04T09:30:54.990Z]    ✅ FILLED: 5/10 @ 0.67
+[2026-02-04T09:30:54.990Z]    🚫 CANCELLED: 5 @ 0.67
+[2026-02-04T09:30:54.990Z]    📊 BATCH RESULT: 5/10 filled
+[2026-02-04T09:30:54.990Z]    Position: UP=388, DOWN=393 | Balanced: 388 | Cost: $385.57 | Settlement: $388.00 | P&L: $2.43 | Remaining: $141.92
+[2026-02-04T09:30:55.150Z]    🚫 CANCELLED: 10 @ 0.31
+[2026-02-04T09:30:55.150Z]    ❌ NOT FILLED @ 0.31
+[2026-02-04T09:30:55.150Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:55.150Z]    Position: UP=380, DOWN=380 | Balanced: 380 | Cost: $375.87 | Settlement: $380.00 | P&L: $4.13 | Remaining: $152.63
+[2026-02-04T09:30:55.281Z] 🟢 POST UP: 5 shares @ 0.68 (bid)
+[2026-02-04T09:30:55.287Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.10)
+[2026-02-04T09:30:55.287Z]    📝 POST: 10 @ 0.31
+[2026-02-04T09:30:55.532Z]    ✅ FILLED: UP 3/5 @ 0.68 (maker)
+[2026-02-04T09:30:55.532Z]    🚫 CANCELLED: UP 2 shares (unfilled portion)
+[2026-02-04T09:30:55.532Z]    Position: UP=391, DOWN=393 | Balanced: 391 | Cost: $387.61 | Settlement: $391.00 | P&L: $3.39 | Remaining: $139.88
+[2026-02-04T09:30:55.537Z]    ✅ FILLED: 10/10 @ 0.31
+[2026-02-04T09:30:55.537Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:55.537Z]    Position: UP=380, DOWN=390 | Balanced: 380 | Cost: $378.97 | Settlement: $380.00 | P&L: $1.03 | Remaining: $149.53
+[2026-02-04T09:30:55.555Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.80)
+[2026-02-04T09:30:55.555Z]    📝 POST: 10 @ 0.68
+[2026-02-04T09:30:55.559Z] 🟢 POST UP: 2 shares @ 0.68 (bid)
+[2026-02-04T09:30:55.806Z]    ✅ FILLED: 10/10 @ 0.68
+[2026-02-04T09:30:55.806Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:55.806Z]    Position: UP=390, DOWN=390 | Balanced: 390 | Cost: $385.77 | Settlement: $390.00 | P&L: $4.23 | Remaining: $142.73
+[2026-02-04T09:30:55.810Z]    ✅ FILLED: UP 1/2 @ 0.68 (maker)
+[2026-02-04T09:30:55.810Z]    🚫 CANCELLED: UP 1 shares (unfilled portion)
+[2026-02-04T09:30:55.810Z]    Position: UP=392, DOWN=393 | Balanced: 392 | Cost: $388.29 | Settlement: $392.00 | P&L: $3.71 | Remaining: $139.20
+[2026-02-04T09:30:55.845Z] 🟢 POST UP: 1 shares @ 0.68 (bid)
+[2026-02-04T09:30:55.848Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.10)
+[2026-02-04T09:30:55.848Z]    📝 POST: 10 @ 0.31
+[2026-02-04T09:30:56.096Z]    ✅ FILLED: UP 1/1 @ 0.68 (maker)
+[2026-02-04T09:30:56.096Z]    Position: UP=393, DOWN=393 | Balanced: 393 | Cost: $388.97 | Settlement: $393.00 | P&L: $4.03 | Remaining: $138.52
+[2026-02-04T09:30:56.098Z]    🚫 CANCELLED: 10 @ 0.31
+[2026-02-04T09:30:56.098Z]    ❌ NOT FILLED @ 0.31
+[2026-02-04T09:30:56.098Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:56.098Z]    Position: UP=390, DOWN=390 | Balanced: 390 | Cost: $385.77 | Settlement: $390.00 | P&L: $4.23 | Remaining: $142.73
+[2026-02-04T09:30:56.170Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:56.170Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:56.175Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.00)
+[2026-02-04T09:30:56.175Z]    📝 POST: 10 @ 0.3
+[2026-02-04T09:30:56.420Z]    ✅ FILLED: 8/10 @ 0.3
+[2026-02-04T09:30:56.420Z]    🚫 CANCELLED: 2 @ 0.3
+[2026-02-04T09:30:56.420Z]    📊 BATCH RESULT: 8/10 filled
+[2026-02-04T09:30:56.420Z]    Position: UP=390, DOWN=398 | Balanced: 390 | Cost: $388.17 | Settlement: $390.00 | P&L: $1.83 | Remaining: $140.33
+[2026-02-04T09:30:56.425Z]    ✅ FILLED: 10/10 @ 0.3
+[2026-02-04T09:30:56.425Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:56.425Z]    Position: UP=393, DOWN=403 | Balanced: 393 | Cost: $391.97 | Settlement: $393.00 | P&L: $1.03 | Remaining: $135.52
+[2026-02-04T09:30:56.445Z] 🟢 POST UP: 8 shares @ 0.67 (bid)
+[2026-02-04T09:30:56.449Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.70)
+[2026-02-04T09:30:56.449Z]    📝 POST: 10 @ 0.67
+[2026-02-04T09:30:56.695Z]    ✅ FILLED: UP 2/8 @ 0.67 (maker)
+[2026-02-04T09:30:56.695Z]    🚫 CANCELLED: UP 6 shares (unfilled portion)
+[2026-02-04T09:30:56.695Z]    Position: UP=392, DOWN=398 | Balanced: 392 | Cost: $389.51 | Settlement: $392.00 | P&L: $2.49 | Remaining: $138.99
+[2026-02-04T09:30:56.699Z]    ✅ FILLED: 10/10 @ 0.67
+[2026-02-04T09:30:56.699Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:56.699Z]    Position: UP=403, DOWN=403 | Balanced: 403 | Cost: $398.67 | Settlement: $403.00 | P&L: $4.33 | Remaining: $128.82
+[2026-02-04T09:30:56.798Z] 🟢 POST UP: 6 shares @ 0.67 (bid)
+[2026-02-04T09:30:56.801Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.20)
+[2026-02-04T09:30:56.801Z]    📝 POST: 10 @ 0.32
+[2026-02-04T09:30:57.048Z]    ✅ FILLED: UP 6/6 @ 0.67 (maker)
+[2026-02-04T09:30:57.048Z]    Position: UP=398, DOWN=398 | Balanced: 398 | Cost: $393.53 | Settlement: $398.00 | P&L: $4.47 | Remaining: $134.97
+[2026-02-04T09:30:57.052Z]    ✅ FILLED: 10/10 @ 0.32
+[2026-02-04T09:30:57.052Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:57.052Z]    Position: UP=403, DOWN=413 | Balanced: 403 | Cost: $401.87 | Settlement: $403.00 | P&L: $1.13 | Remaining: $125.62
+[2026-02-04T09:30:57.052Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.20)
+[2026-02-04T09:30:57.052Z]    📝 POST: 10 @ 0.32
+[2026-02-04T09:30:57.057Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.70)
+[2026-02-04T09:30:57.057Z]    📝 POST: 10 @ 0.67
+[2026-02-04T09:30:57.303Z]    ✅ FILLED: 10/10 @ 0.32
+[2026-02-04T09:30:57.303Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:57.303Z]    Position: UP=398, DOWN=408 | Balanced: 398 | Cost: $396.73 | Settlement: $398.00 | P&L: $1.27 | Remaining: $131.77
+[2026-02-04T09:30:57.307Z]    🚫 CANCELLED: 10 @ 0.67
+[2026-02-04T09:30:57.307Z]    ❌ NOT FILLED @ 0.67
+[2026-02-04T09:30:57.307Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:30:57.307Z]    Position: UP=403, DOWN=413 | Balanced: 403 | Cost: $401.87 | Settlement: $403.00 | P&L: $1.13 | Remaining: $125.62
+[2026-02-04T09:30:57.309Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.70)
+[2026-02-04T09:30:57.309Z]    📝 POST: 10 @ 0.67
+[2026-02-04T09:30:57.312Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.70)
+[2026-02-04T09:30:57.312Z]    📝 POST: 10 @ 0.67
+[2026-02-04T09:30:57.560Z]    ✅ FILLED: 10/10 @ 0.67
+[2026-02-04T09:30:57.560Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:57.560Z]    Position: UP=408, DOWN=408 | Balanced: 408 | Cost: $403.43 | Settlement: $408.00 | P&L: $4.57 | Remaining: $125.07
+[2026-02-04T09:30:57.563Z]    ✅ FILLED: 10/10 @ 0.67
+[2026-02-04T09:30:57.564Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:57.564Z]    Position: UP=413, DOWN=413 | Balanced: 413 | Cost: $408.57 | Settlement: $413.00 | P&L: $4.43 | Remaining: $118.92
+[2026-02-04T09:30:57.629Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.10)
+[2026-02-04T09:30:57.629Z]    📝 POST: 10 @ 0.31
+[2026-02-04T09:30:57.632Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.10)
+[2026-02-04T09:30:57.632Z]    📝 POST: 10 @ 0.31
+[2026-02-04T09:30:57.880Z]    ✅ FILLED: 4/10 @ 0.31
+[2026-02-04T09:30:57.880Z]    🚫 CANCELLED: 6 @ 0.31
+[2026-02-04T09:30:57.880Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:30:57.880Z]    Position: UP=408, DOWN=412 | Balanced: 408 | Cost: $404.67 | Settlement: $408.00 | P&L: $3.33 | Remaining: $123.83
+[2026-02-04T09:30:57.883Z]    ✅ FILLED: 10/10 @ 0.31
+[2026-02-04T09:30:57.883Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:57.883Z]    Position: UP=413, DOWN=423 | Balanced: 413 | Cost: $411.67 | Settlement: $413.00 | P&L: $1.33 | Remaining: $115.82
+[2026-02-04T09:30:57.887Z] 🟢 POST UP: 4 shares @ 0.68 (bid)
+[2026-02-04T09:30:57.889Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.80)
+[2026-02-04T09:30:57.889Z]    📝 POST: 10 @ 0.68
+[2026-02-04T09:30:58.137Z]    ✅ FILLED: UP 4/4 @ 0.68 (maker)
+[2026-02-04T09:30:58.138Z]    Position: UP=412, DOWN=412 | Balanced: 412 | Cost: $407.39 | Settlement: $412.00 | P&L: $4.61 | Remaining: $121.11
+[2026-02-04T09:30:58.140Z]    ✅ FILLED: 10/10 @ 0.68
+[2026-02-04T09:30:58.140Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:58.140Z]    Position: UP=423, DOWN=423 | Balanced: 423 | Cost: $418.47 | Settlement: $423.00 | P&L: $4.53 | Remaining: $109.02
+[2026-02-04T09:30:58.288Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.20)
+[2026-02-04T09:30:58.288Z]    📝 POST: 10 @ 0.32
+[2026-02-04T09:30:58.291Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.20)
+[2026-02-04T09:30:58.291Z]    📝 POST: 10 @ 0.32
+[2026-02-04T09:30:58.539Z]    ✅ FILLED: 10/10 @ 0.32
+[2026-02-04T09:30:58.539Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:58.539Z]    Position: UP=412, DOWN=422 | Balanced: 412 | Cost: $410.59 | Settlement: $412.00 | P&L: $1.41 | Remaining: $117.91
+[2026-02-04T09:30:58.542Z]    ✅ FILLED: 10/10 @ 0.32
+[2026-02-04T09:30:58.542Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:30:58.543Z]    Position: UP=423, DOWN=433 | Balanced: 423 | Cost: $421.67 | Settlement: $423.00 | P&L: $1.33 | Remaining: $105.82
+[2026-02-04T09:30:58.590Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.70)
+[2026-02-04T09:30:58.590Z]    📝 POST: 10 @ 0.67
+[2026-02-04T09:30:58.613Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.70)
+[2026-02-04T09:30:58.613Z]    📝 POST: 10 @ 0.67
+[2026-02-04T09:30:58.841Z]    ✅ FILLED: 3/10 @ 0.67
+[2026-02-04T09:30:58.841Z]    🚫 CANCELLED: 7 @ 0.67
+[2026-02-04T09:30:58.841Z]    📊 BATCH RESULT: 3/10 filled
+[2026-02-04T09:30:58.841Z]    Position: UP=426, DOWN=433 | Balanced: 426 | Cost: $423.68 | Settlement: $426.00 | P&L: $2.32 | Remaining: $103.81
+[2026-02-04T09:30:58.863Z]    ✅ FILLED: 4/10 @ 0.67
+[2026-02-04T09:30:58.863Z]    🚫 CANCELLED: 6 @ 0.67
+[2026-02-04T09:30:58.863Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:30:58.863Z]    Position: UP=416, DOWN=422 | Balanced: 416 | Cost: $413.27 | Settlement: $416.00 | P&L: $2.73 | Remaining: $115.23
+[2026-02-04T09:30:59.243Z] 🟢 POST UP: 6 shares @ 0.67 (bid)
+[2026-02-04T09:30:59.244Z] 🟢 POST UP: 7 shares @ 0.67 (bid)
+[2026-02-04T09:30:59.494Z]    ✅ FILLED: UP 6/6 @ 0.67 (maker)
+[2026-02-04T09:30:59.494Z]    Position: UP=422, DOWN=422 | Balanced: 422 | Cost: $417.29 | Settlement: $422.00 | P&L: $4.71 | Remaining: $111.21
+[2026-02-04T09:30:59.495Z]    🚫 CANCELLED: UP 7 shares (unfilled portion)
+[2026-02-04T09:30:59.495Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:30:59.495Z]    Position: UP=426, DOWN=433 | Balanced: 426 | Cost: $423.68 | Settlement: $426.00 | P&L: $2.32 | Remaining: $103.81
+[2026-02-04T09:30:59.689Z] 🟢 POST UP: 7 shares @ 0.67 (bid)
+[2026-02-04T09:30:59.775Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.20)
+[2026-02-04T09:30:59.775Z]    📝 POST: 10 @ 0.32
+[2026-02-04T09:30:59.940Z]    ✅ FILLED: UP 7/7 @ 0.67 (maker)
+[2026-02-04T09:30:59.940Z]    Position: UP=433, DOWN=433 | Balanced: 433 | Cost: $428.37 | Settlement: $433.00 | P&L: $4.63 | Remaining: $99.12
+[2026-02-04T09:30:59.956Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.20)
+[2026-02-04T09:30:59.956Z]    📝 POST: 10 @ 0.32
+[2026-02-04T09:31:00.025Z]    ✅ FILLED: 10/10 @ 0.32
+[2026-02-04T09:31:00.026Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:00.026Z]    Position: UP=422, DOWN=432 | Balanced: 422 | Cost: $420.49 | Settlement: $422.00 | P&L: $1.51 | Remaining: $108.01
+[2026-02-04T09:31:00.163Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.70)
+[2026-02-04T09:31:00.163Z]    📝 POST: 10 @ 0.67
+[2026-02-04T09:31:00.207Z]    ✅ FILLED: 4/10 @ 0.32
+[2026-02-04T09:31:00.207Z]    🚫 CANCELLED: 6 @ 0.32
+[2026-02-04T09:31:00.207Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:31:00.207Z]    Position: UP=433, DOWN=437 | Balanced: 433 | Cost: $429.65 | Settlement: $433.00 | P&L: $3.35 | Remaining: $97.84
+[2026-02-04T09:31:00.218Z] 🟢 POST UP: 4 shares @ 0.67 (bid)
+[2026-02-04T09:31:00.414Z]    ✅ FILLED: 10/10 @ 0.67
+[2026-02-04T09:31:00.414Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:00.414Z]    Position: UP=432, DOWN=432 | Balanced: 432 | Cost: $427.19 | Settlement: $432.00 | P&L: $4.81 | Remaining: $101.31
+[2026-02-04T09:31:00.469Z]    ✅ FILLED: UP 2/4 @ 0.67 (maker)
+[2026-02-04T09:31:00.469Z]    🚫 CANCELLED: UP 2 shares (unfilled portion)
+[2026-02-04T09:31:00.469Z]    Position: UP=435, DOWN=437 | Balanced: 435 | Cost: $430.99 | Settlement: $435.00 | P&L: $4.01 | Remaining: $96.50
+[2026-02-04T09:31:00.601Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.20)
+[2026-02-04T09:31:00.601Z]    📝 POST: 10 @ 0.32
+[2026-02-04T09:31:00.602Z] 🟢 POST UP: 2 shares @ 0.66 (bid)
+[2026-02-04T09:31:00.852Z]    ✅ FILLED: 10/10 @ 0.32
+[2026-02-04T09:31:00.852Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:00.852Z]    Position: UP=432, DOWN=442 | Balanced: 432 | Cost: $430.39 | Settlement: $432.00 | P&L: $1.61 | Remaining: $98.11
+[2026-02-04T09:31:00.853Z]    ✅ FILLED: UP 2/2 @ 0.66 (maker)
+[2026-02-04T09:31:00.853Z]    Position: UP=437, DOWN=437 | Balanced: 437 | Cost: $432.31 | Settlement: $437.00 | P&L: $4.69 | Remaining: $95.18
+[2026-02-04T09:31:00.862Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.60)
+[2026-02-04T09:31:00.862Z]    📝 POST: 10 @ 0.66
+[2026-02-04T09:31:00.864Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.30)
+[2026-02-04T09:31:00.864Z]    📝 POST: 10 @ 0.33
+[2026-02-04T09:31:01.112Z]    🚫 CANCELLED: 10 @ 0.66
+[2026-02-04T09:31:01.112Z]    ❌ NOT FILLED @ 0.66
+[2026-02-04T09:31:01.112Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:01.112Z]    Position: UP=432, DOWN=442 | Balanced: 432 | Cost: $430.39 | Settlement: $432.00 | P&L: $1.61 | Remaining: $98.11
+[2026-02-04T09:31:01.115Z]    ✅ FILLED: 10/10 @ 0.33
+[2026-02-04T09:31:01.115Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:01.115Z]    Position: UP=437, DOWN=447 | Balanced: 437 | Cost: $435.61 | Settlement: $437.00 | P&L: $1.39 | Remaining: $91.88
+[2026-02-04T09:31:01.373Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.60)
+[2026-02-04T09:31:01.373Z]    📝 POST: 10 @ 0.66
+[2026-02-04T09:31:01.384Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.60)
+[2026-02-04T09:31:01.384Z]    📝 POST: 10 @ 0.66
+[2026-02-04T09:31:01.625Z]    ✅ FILLED: 4/10 @ 0.66
+[2026-02-04T09:31:01.625Z]    🚫 CANCELLED: 6 @ 0.66
+[2026-02-04T09:31:01.625Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:31:01.625Z]    Position: UP=441, DOWN=447 | Balanced: 441 | Cost: $438.25 | Settlement: $441.00 | P&L: $2.75 | Remaining: $89.24
+[2026-02-04T09:31:01.635Z]    🚫 CANCELLED: 10 @ 0.66
+[2026-02-04T09:31:01.635Z]    ❌ NOT FILLED @ 0.66
+[2026-02-04T09:31:01.635Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:01.635Z]    Position: UP=432, DOWN=442 | Balanced: 432 | Cost: $430.39 | Settlement: $432.00 | P&L: $1.61 | Remaining: $98.11
+[2026-02-04T09:31:01.841Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.60)
+[2026-02-04T09:31:01.841Z]    📝 POST: 10 @ 0.66
+[2026-02-04T09:31:01.841Z] 🟢 POST UP: 6 shares @ 0.66 (bid)
+[2026-02-04T09:31:02.092Z]    ✅ FILLED: 10/10 @ 0.66
+[2026-02-04T09:31:02.092Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:02.092Z]    Position: UP=442, DOWN=442 | Balanced: 442 | Cost: $436.99 | Settlement: $442.00 | P&L: $5.01 | Remaining: $91.51
+[2026-02-04T09:31:02.092Z]    ✅ FILLED: UP 6/6 @ 0.66 (maker)
+[2026-02-04T09:31:02.093Z]    Position: UP=447, DOWN=447 | Balanced: 447 | Cost: $442.21 | Settlement: $447.00 | P&L: $4.79 | Remaining: $85.28
+[2026-02-04T09:31:02.176Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.30)
+[2026-02-04T09:31:02.176Z]    📝 POST: 10 @ 0.33
+[2026-02-04T09:31:02.177Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.30)
+[2026-02-04T09:31:02.177Z]    📝 POST: 10 @ 0.33
+[2026-02-04T09:31:02.427Z]    ✅ FILLED: 10/10 @ 0.33
+[2026-02-04T09:31:02.427Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:02.427Z]    Position: UP=442, DOWN=452 | Balanced: 442 | Cost: $440.29 | Settlement: $442.00 | P&L: $1.71 | Remaining: $88.21
+[2026-02-04T09:31:02.427Z]    ✅ FILLED: 10/10 @ 0.33
+[2026-02-04T09:31:02.427Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:02.427Z]    Position: UP=447, DOWN=457 | Balanced: 447 | Cost: $445.51 | Settlement: $447.00 | P&L: $1.49 | Remaining: $81.98
+[2026-02-04T09:31:05.256Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.10)
+[2026-02-04T09:31:05.256Z]    📝 POST: 10 @ 0.61
+[2026-02-04T09:31:05.260Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.10)
+[2026-02-04T09:31:05.260Z]    📝 POST: 10 @ 0.61
+[2026-02-04T09:31:05.507Z]    🚫 CANCELLED: 10 @ 0.61
+[2026-02-04T09:31:05.507Z]    ❌ NOT FILLED @ 0.61
+[2026-02-04T09:31:05.507Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:05.507Z]    Position: UP=447, DOWN=457 | Balanced: 447 | Cost: $445.51 | Settlement: $447.00 | P&L: $1.49 | Remaining: $81.98
+[2026-02-04T09:31:05.511Z]    ✅ FILLED: 10/10 @ 0.61
+[2026-02-04T09:31:05.511Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:05.511Z]    Position: UP=452, DOWN=452 | Balanced: 452 | Cost: $446.39 | Settlement: $452.00 | P&L: $5.61 | Remaining: $82.11
+[2026-02-04T09:31:05.520Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.80)
+[2026-02-04T09:31:05.520Z]    📝 POST: 10 @ 0.38
+[2026-02-04T09:31:05.529Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.10)
+[2026-02-04T09:31:05.529Z]    📝 POST: 10 @ 0.61
+[2026-02-04T09:31:05.770Z]    ✅ FILLED: 10/10 @ 0.38
+[2026-02-04T09:31:05.771Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:05.771Z]    Position: UP=452, DOWN=462 | Balanced: 452 | Cost: $450.19 | Settlement: $452.00 | P&L: $1.81 | Remaining: $78.31
+[2026-02-04T09:31:05.779Z]    ✅ FILLED: 4/10 @ 0.61
+[2026-02-04T09:31:05.779Z]    🚫 CANCELLED: 6 @ 0.61
+[2026-02-04T09:31:05.779Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:31:05.779Z]    Position: UP=451, DOWN=457 | Balanced: 451 | Cost: $447.95 | Settlement: $451.00 | P&L: $3.05 | Remaining: $79.54
+[2026-02-04T09:31:05.791Z] 🟢 POST UP: 6 shares @ 0.61 (bid)
+[2026-02-04T09:31:05.792Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.10)
+[2026-02-04T09:31:05.792Z]    📝 POST: 10 @ 0.61
+[2026-02-04T09:31:06.042Z]    ✅ FILLED: UP 6/6 @ 0.61 (maker)
+[2026-02-04T09:31:06.042Z]    Position: UP=457, DOWN=457 | Balanced: 457 | Cost: $451.61 | Settlement: $457.00 | P&L: $5.39 | Remaining: $75.88
+[2026-02-04T09:31:06.042Z]    🚫 CANCELLED: 10 @ 0.61
+[2026-02-04T09:31:06.042Z]    ❌ NOT FILLED @ 0.61
+[2026-02-04T09:31:06.042Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:06.042Z]    Position: UP=452, DOWN=462 | Balanced: 452 | Cost: $450.19 | Settlement: $452.00 | P&L: $1.81 | Remaining: $78.31
+[2026-02-04T09:31:06.166Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.10)
+[2026-02-04T09:31:06.166Z]    📝 POST: 10 @ 0.61
+[2026-02-04T09:31:06.208Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.80)
+[2026-02-04T09:31:06.208Z]    📝 POST: 10 @ 0.38
+[2026-02-04T09:31:06.416Z]    ✅ FILLED: 10/10 @ 0.61
+[2026-02-04T09:31:06.417Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:06.417Z]    Position: UP=462, DOWN=462 | Balanced: 462 | Cost: $456.29 | Settlement: $462.00 | P&L: $5.71 | Remaining: $72.21
+[2026-02-04T09:31:06.424Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.80)
+[2026-02-04T09:31:06.424Z]    📝 POST: 10 @ 0.38
+[2026-02-04T09:31:06.458Z]    🚫 CANCELLED: 10 @ 0.38
+[2026-02-04T09:31:06.459Z]    ❌ NOT FILLED @ 0.38
+[2026-02-04T09:31:06.459Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:06.459Z]    Position: UP=457, DOWN=457 | Balanced: 457 | Cost: $451.61 | Settlement: $457.00 | P&L: $5.39 | Remaining: $75.88
+[2026-02-04T09:31:06.674Z]    🚫 CANCELLED: 10 @ 0.38
+[2026-02-04T09:31:06.674Z]    ❌ NOT FILLED @ 0.38
+[2026-02-04T09:31:06.675Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:06.675Z]    Position: UP=462, DOWN=462 | Balanced: 462 | Cost: $456.29 | Settlement: $462.00 | P&L: $5.71 | Remaining: $72.21
+[2026-02-04T09:31:06.805Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.80)
+[2026-02-04T09:31:06.805Z]    📝 POST: 10 @ 0.38
+[2026-02-04T09:31:06.805Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.80)
+[2026-02-04T09:31:06.805Z]    📝 POST: 10 @ 0.38
+[2026-02-04T09:31:07.055Z]    ✅ FILLED: 4/10 @ 0.38
+[2026-02-04T09:31:07.055Z]    🚫 CANCELLED: 6 @ 0.38
+[2026-02-04T09:31:07.055Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:31:07.055Z]    Position: UP=462, DOWN=466 | Balanced: 462 | Cost: $457.81 | Settlement: $462.00 | P&L: $4.19 | Remaining: $70.69
+[2026-02-04T09:31:07.055Z]    🚫 CANCELLED: 10 @ 0.38
+[2026-02-04T09:31:07.055Z]    ❌ NOT FILLED @ 0.38
+[2026-02-04T09:31:07.056Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:07.056Z]    Position: UP=457, DOWN=457 | Balanced: 457 | Cost: $451.61 | Settlement: $457.00 | P&L: $5.39 | Remaining: $75.88
+[2026-02-04T09:31:07.083Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.80)
+[2026-02-04T09:31:07.083Z]    📝 POST: 10 @ 0.38
+[2026-02-04T09:31:07.083Z] 🟢 POST UP: 4 shares @ 0.61 (bid)
+[2026-02-04T09:31:07.333Z]    ✅ FILLED: 10/10 @ 0.38
+[2026-02-04T09:31:07.333Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:07.333Z]    Position: UP=457, DOWN=467 | Balanced: 457 | Cost: $455.41 | Settlement: $457.00 | P&L: $1.59 | Remaining: $72.08
+[2026-02-04T09:31:07.334Z]    🚫 CANCELLED: UP 4 shares (unfilled portion)
+[2026-02-04T09:31:07.334Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:31:07.334Z]    Position: UP=462, DOWN=466 | Balanced: 462 | Cost: $457.81 | Settlement: $462.00 | P&L: $4.19 | Remaining: $70.69
+[2026-02-04T09:31:07.511Z] 🟢 POST UP: 4 shares @ 0.6 (bid)
+[2026-02-04T09:31:07.763Z]    ✅ FILLED: UP 2/4 @ 0.6 (maker)
+[2026-02-04T09:31:07.763Z]    🚫 CANCELLED: UP 2 shares (unfilled portion)
+[2026-02-04T09:31:07.763Z]    Position: UP=464, DOWN=466 | Balanced: 464 | Cost: $459.01 | Settlement: $464.00 | P&L: $4.99 | Remaining: $69.49
+[2026-02-04T09:31:08.111Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:31:08.111Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:31:08.114Z] 🟢 POST UP: 2 shares @ 0.59 (bid)
+[2026-02-04T09:31:08.362Z]    🚫 CANCELLED: 10 @ 0.59
+[2026-02-04T09:31:08.362Z]    ❌ NOT FILLED @ 0.59
+[2026-02-04T09:31:08.362Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:08.362Z]    Position: UP=457, DOWN=467 | Balanced: 457 | Cost: $455.41 | Settlement: $457.00 | P&L: $1.59 | Remaining: $72.08
+[2026-02-04T09:31:08.365Z]    ✅ FILLED: UP 2/2 @ 0.59 (maker)
+[2026-02-04T09:31:08.365Z]    Position: UP=466, DOWN=466 | Balanced: 466 | Cost: $460.19 | Settlement: $466.00 | P&L: $5.81 | Remaining: $68.31
+[2026-02-04T09:31:08.387Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:31:08.387Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:31:08.391Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.00)
+[2026-02-04T09:31:08.391Z]    📝 POST: 10 @ 0.4
+[2026-02-04T09:31:08.637Z]    ✅ FILLED: 10/10 @ 0.59
+[2026-02-04T09:31:08.637Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:08.637Z]    Position: UP=467, DOWN=467 | Balanced: 467 | Cost: $461.31 | Settlement: $467.00 | P&L: $5.69 | Remaining: $66.18
+[2026-02-04T09:31:08.641Z]    ✅ FILLED: 10/10 @ 0.4
+[2026-02-04T09:31:08.641Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:08.641Z]    Position: UP=466, DOWN=476 | Balanced: 466 | Cost: $464.19 | Settlement: $466.00 | P&L: $1.81 | Remaining: $64.31
+[2026-02-04T09:31:08.642Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.00)
+[2026-02-04T09:31:08.643Z]    📝 POST: 10 @ 0.4
+[2026-02-04T09:31:08.645Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:31:08.645Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:31:08.893Z]    🚫 CANCELLED: 10 @ 0.4
+[2026-02-04T09:31:08.893Z]    ❌ NOT FILLED @ 0.4
+[2026-02-04T09:31:08.893Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:08.893Z]    Position: UP=467, DOWN=467 | Balanced: 467 | Cost: $461.31 | Settlement: $467.00 | P&L: $5.69 | Remaining: $66.18
+[2026-02-04T09:31:08.895Z]    ✅ FILLED: 10/10 @ 0.59
+[2026-02-04T09:31:08.895Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:08.895Z]    Position: UP=476, DOWN=476 | Balanced: 476 | Cost: $470.09 | Settlement: $476.00 | P&L: $5.91 | Remaining: $58.41
+[2026-02-04T09:31:08.958Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.00)
+[2026-02-04T09:31:08.958Z]    📝 POST: 10 @ 0.4
+[2026-02-04T09:31:09.082Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.00)
+[2026-02-04T09:31:09.082Z]    📝 POST: 10 @ 0.4
+[2026-02-04T09:31:09.208Z]    ✅ FILLED: 10/10 @ 0.4
+[2026-02-04T09:31:09.208Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:09.208Z]    Position: UP=467, DOWN=477 | Balanced: 467 | Cost: $465.31 | Settlement: $467.00 | P&L: $1.69 | Remaining: $62.18
+[2026-02-04T09:31:09.221Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:31:09.221Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:31:09.333Z]    🚫 CANCELLED: 10 @ 0.4
+[2026-02-04T09:31:09.333Z]    ❌ NOT FILLED @ 0.4
+[2026-02-04T09:31:09.333Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:09.333Z]    Position: UP=476, DOWN=476 | Balanced: 476 | Cost: $470.09 | Settlement: $476.00 | P&L: $5.91 | Remaining: $58.41
+[2026-02-04T09:31:09.346Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.00)
+[2026-02-04T09:31:09.346Z]    📝 POST: 10 @ 0.4
+[2026-02-04T09:31:09.471Z]    ✅ FILLED: 10/10 @ 0.59
+[2026-02-04T09:31:09.471Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:09.471Z]    Position: UP=477, DOWN=477 | Balanced: 477 | Cost: $471.21 | Settlement: $477.00 | P&L: $5.79 | Remaining: $56.28
+[2026-02-04T09:31:09.576Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.20)
+[2026-02-04T09:31:09.577Z]    📝 POST: 10 @ 0.42
+[2026-02-04T09:31:09.597Z]    ✅ FILLED: 10/10 @ 0.4
+[2026-02-04T09:31:09.597Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:09.597Z]    Position: UP=476, DOWN=486 | Balanced: 476 | Cost: $474.09 | Settlement: $476.00 | P&L: $1.91 | Remaining: $54.41
+[2026-02-04T09:31:09.692Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.70)
+[2026-02-04T09:31:09.692Z]    📝 POST: 10 @ 0.57
+[2026-02-04T09:31:09.827Z]    ✅ FILLED: 10/10 @ 0.42
+[2026-02-04T09:31:09.827Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:09.827Z]    Position: UP=477, DOWN=487 | Balanced: 477 | Cost: $475.41 | Settlement: $477.00 | P&L: $1.59 | Remaining: $52.08
+[2026-02-04T09:31:09.833Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.60)
+[2026-02-04T09:31:09.833Z]    📝 POST: 10 @ 0.56
+[2026-02-04T09:31:09.943Z]    ✅ FILLED: 10/10 @ 0.57
+[2026-02-04T09:31:09.943Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:09.943Z]    Position: UP=486, DOWN=486 | Balanced: 486 | Cost: $479.79 | Settlement: $486.00 | P&L: $6.21 | Remaining: $48.71
+[2026-02-04T09:31:09.970Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.00)
+[2026-02-04T09:31:09.970Z]    📝 POST: 10 @ 0.4
+[2026-02-04T09:31:10.083Z]    🚫 CANCELLED: 10 @ 0.56
+[2026-02-04T09:31:10.084Z]    ❌ NOT FILLED @ 0.56
+[2026-02-04T09:31:10.084Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:10.084Z]    Position: UP=477, DOWN=487 | Balanced: 477 | Cost: $475.41 | Settlement: $477.00 | P&L: $1.59 | Remaining: $52.08
+[2026-02-04T09:31:10.160Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:31:10.160Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:31:10.221Z]    ✅ FILLED: 10/10 @ 0.4
+[2026-02-04T09:31:10.222Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:10.222Z]    Position: UP=486, DOWN=496 | Balanced: 486 | Cost: $483.79 | Settlement: $486.00 | P&L: $2.21 | Remaining: $44.71
+[2026-02-04T09:31:10.410Z]    ✅ FILLED: 7/10 @ 0.59
+[2026-02-04T09:31:10.411Z]    🚫 CANCELLED: 3 @ 0.59
+[2026-02-04T09:31:10.411Z]    📊 BATCH RESULT: 7/10 filled
+[2026-02-04T09:31:10.411Z]    Position: UP=484, DOWN=487 | Balanced: 484 | Cost: $479.54 | Settlement: $484.00 | P&L: $4.46 | Remaining: $47.95
+[2026-02-04T09:31:11.594Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.80)
+[2026-02-04T09:31:11.594Z]    📝 POST: 10 @ 0.58
+[2026-02-04T09:31:11.595Z] 🟢 POST UP: 3 shares @ 0.6 (bid)
+[2026-02-04T09:31:11.844Z]    ✅ FILLED: 10/10 @ 0.58
+[2026-02-04T09:31:11.844Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:11.844Z]    Position: UP=496, DOWN=496 | Balanced: 496 | Cost: $489.59 | Settlement: $496.00 | P&L: $6.41 | Remaining: $38.91
+[2026-02-04T09:31:11.846Z]    ✅ FILLED: UP 3/3 @ 0.6 (maker)
+[2026-02-04T09:31:11.846Z]    Position: UP=487, DOWN=487 | Balanced: 487 | Cost: $481.34 | Settlement: $487.00 | P&L: $5.66 | Remaining: $46.15
+[2026-02-04T09:31:11.847Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.90)
+[2026-02-04T09:31:11.847Z]    📝 POST: 10 @ 0.39
+[2026-02-04T09:31:11.853Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.90)
+[2026-02-04T09:31:11.853Z]    📝 POST: 10 @ 0.39
+[2026-02-04T09:31:12.098Z]    🚫 CANCELLED: 10 @ 0.39
+[2026-02-04T09:31:12.098Z]    ❌ NOT FILLED @ 0.39
+[2026-02-04T09:31:12.098Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:12.098Z]    Position: UP=496, DOWN=496 | Balanced: 496 | Cost: $489.59 | Settlement: $496.00 | P&L: $6.41 | Remaining: $38.91
+[2026-02-04T09:31:12.104Z]    ✅ FILLED: 10/10 @ 0.39
+[2026-02-04T09:31:12.104Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:12.104Z]    Position: UP=487, DOWN=497 | Balanced: 487 | Cost: $485.24 | Settlement: $487.00 | P&L: $1.76 | Remaining: $42.25
+[2026-02-04T09:31:12.115Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.90)
+[2026-02-04T09:31:12.115Z]    📝 POST: 10 @ 0.39
+[2026-02-04T09:31:12.119Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.00)
+[2026-02-04T09:31:12.119Z]    📝 POST: 10 @ 0.6
+[2026-02-04T09:31:12.366Z]    ✅ FILLED: 10/10 @ 0.39
+[2026-02-04T09:31:12.366Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:12.366Z]    Position: UP=496, DOWN=506 | Balanced: 496 | Cost: $493.49 | Settlement: $496.00 | P&L: $2.51 | Remaining: $35.01
+[2026-02-04T09:31:12.369Z]    ✅ FILLED: 10/10 @ 0.6
+[2026-02-04T09:31:12.369Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:12.369Z]    Position: UP=497, DOWN=497 | Balanced: 497 | Cost: $491.24 | Settlement: $497.00 | P&L: $5.76 | Remaining: $36.25
+[2026-02-04T09:31:13.135Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.80)
+[2026-02-04T09:31:13.136Z]    📝 POST: 10 @ 0.38
+[2026-02-04T09:31:13.139Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:31:13.139Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:31:13.386Z]    ✅ FILLED: 10/10 @ 0.38
+[2026-02-04T09:31:13.386Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:13.386Z]    Position: UP=497, DOWN=507 | Balanced: 497 | Cost: $495.04 | Settlement: $497.00 | P&L: $1.96 | Remaining: $32.45
+[2026-02-04T09:31:13.389Z]    🚫 CANCELLED: 10 @ 0.59
+[2026-02-04T09:31:13.389Z]    ❌ NOT FILLED @ 0.59
+[2026-02-04T09:31:13.389Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:13.389Z]    Position: UP=496, DOWN=506 | Balanced: 496 | Cost: $493.49 | Settlement: $496.00 | P&L: $2.51 | Remaining: $35.01
+[2026-02-04T09:31:13.608Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.00)
+[2026-02-04T09:31:13.608Z]    📝 POST: 10 @ 0.6
+[2026-02-04T09:31:13.614Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.00)
+[2026-02-04T09:31:13.614Z]    📝 POST: 10 @ 0.6
+[2026-02-04T09:31:13.858Z]    ✅ FILLED: 10/10 @ 0.6
+[2026-02-04T09:31:13.858Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:13.858Z]    Position: UP=507, DOWN=507 | Balanced: 507 | Cost: $501.04 | Settlement: $507.00 | P&L: $5.96 | Remaining: $26.45
+[2026-02-04T09:31:13.864Z]    🚫 CANCELLED: 10 @ 0.6
+[2026-02-04T09:31:13.865Z]    ❌ NOT FILLED @ 0.6
+[2026-02-04T09:31:13.865Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:13.865Z]    Position: UP=496, DOWN=506 | Balanced: 496 | Cost: $493.49 | Settlement: $496.00 | P&L: $2.51 | Remaining: $35.01
+[2026-02-04T09:31:13.870Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.90)
+[2026-02-04T09:31:13.870Z]    📝 POST: 10 @ 0.39
+[2026-02-04T09:31:13.874Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $6.00)
+[2026-02-04T09:31:13.874Z]    📝 POST: 10 @ 0.6
+[2026-02-04T09:31:14.121Z]    🚫 CANCELLED: 10 @ 0.39
+[2026-02-04T09:31:14.121Z]    ❌ NOT FILLED @ 0.39
+[2026-02-04T09:31:14.121Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:14.121Z]    Position: UP=507, DOWN=507 | Balanced: 507 | Cost: $501.04 | Settlement: $507.00 | P&L: $5.96 | Remaining: $26.45
+[2026-02-04T09:31:14.125Z]    ✅ FILLED: 6/10 @ 0.6
+[2026-02-04T09:31:14.125Z]    🚫 CANCELLED: 4 @ 0.6
+[2026-02-04T09:31:14.125Z]    📊 BATCH RESULT: 6/10 filled
+[2026-02-04T09:31:14.125Z]    Position: UP=502, DOWN=506 | Balanced: 502 | Cost: $497.09 | Settlement: $502.00 | P&L: $4.91 | Remaining: $31.41
+[2026-02-04T09:31:15.464Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.90)
+[2026-02-04T09:31:15.464Z]    📝 POST: 10 @ 0.39
+[2026-02-04T09:31:15.474Z] 🟢 POST UP: 4 shares @ 0.59 (bid)
+[2026-02-04T09:31:15.714Z]    ✅ FILLED: 10/10 @ 0.39
+[2026-02-04T09:31:15.714Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:15.714Z]    Position: UP=507, DOWN=517 | Balanced: 507 | Cost: $504.94 | Settlement: $507.00 | P&L: $2.06 | Remaining: $22.55
+[2026-02-04T09:31:15.725Z]    ✅ FILLED: UP 4/4 @ 0.59 (maker)
+[2026-02-04T09:31:15.725Z]    Position: UP=506, DOWN=506 | Balanced: 506 | Cost: $499.45 | Settlement: $506.00 | P&L: $6.55 | Remaining: $29.05
+[2026-02-04T09:31:15.798Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.90)
+[2026-02-04T09:31:15.798Z]    📝 POST: 10 @ 0.59
+[2026-02-04T09:31:15.805Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $3.80)
+[2026-02-04T09:31:15.805Z]    📝 POST: 10 @ 0.38
+[2026-02-04T09:31:16.048Z]    ✅ FILLED: 10/10 @ 0.59
+[2026-02-04T09:31:16.048Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:16.048Z]    Position: UP=517, DOWN=517 | Balanced: 517 | Cost: $510.84 | Settlement: $517.00 | P&L: $6.16 | Remaining: $16.65
+[2026-02-04T09:31:16.055Z]    ✅ FILLED: 4/10 @ 0.38
+[2026-02-04T09:31:16.055Z]    🚫 CANCELLED: 6 @ 0.38
+[2026-02-04T09:31:16.055Z]    📊 BATCH RESULT: 4/10 filled
+[2026-02-04T09:31:16.055Z]    Position: UP=506, DOWN=510 | Balanced: 506 | Cost: $500.97 | Settlement: $506.00 | P&L: $5.03 | Remaining: $27.53
+[2026-02-04T09:31:16.120Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.00)
+[2026-02-04T09:31:16.120Z]    📝 POST: 10 @ 0.4
+[2026-02-04T09:31:16.123Z] 🟢 POST UP: 4 shares @ 0.59 (bid)
+[2026-02-04T09:31:16.371Z]    ✅ FILLED: 10/10 @ 0.4
+[2026-02-04T09:31:16.371Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:16.371Z]    Position: UP=517, DOWN=527 | Balanced: 517 | Cost: $514.84 | Settlement: $517.00 | P&L: $2.16 | Remaining: $12.65
+[2026-02-04T09:31:16.374Z]    🚫 CANCELLED: UP 4 shares (unfilled portion)
+[2026-02-04T09:31:16.374Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:31:16.374Z]    Position: UP=506, DOWN=510 | Balanced: 506 | Cost: $500.97 | Settlement: $506.00 | P&L: $5.03 | Remaining: $27.53
+[2026-02-04T09:31:17.425Z] 🟢 POST UP: 4 shares @ 0.56 (bid)
+[2026-02-04T09:31:17.535Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.60)
+[2026-02-04T09:31:17.535Z]    📝 POST: 10 @ 0.56
+[2026-02-04T09:31:17.676Z]    ✅ FILLED: UP 2/4 @ 0.56 (maker)
+[2026-02-04T09:31:17.676Z]    🚫 CANCELLED: UP 2 shares (unfilled portion)
+[2026-02-04T09:31:17.676Z]    Position: UP=508, DOWN=510 | Balanced: 508 | Cost: $502.09 | Settlement: $508.00 | P&L: $5.91 | Remaining: $26.41
+[2026-02-04T09:31:17.745Z] 🟢 POST UP: 2 shares @ 0.56 (bid)
+[2026-02-04T09:31:17.786Z]    ✅ FILLED: 10/10 @ 0.56
+[2026-02-04T09:31:17.786Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:17.786Z]    Position: UP=527, DOWN=527 | Balanced: 527 | Cost: $520.44 | Settlement: $527.00 | P&L: $6.56 | Remaining: $7.05
+[2026-02-04T09:31:17.996Z]    ✅ FILLED: UP 2/2 @ 0.56 (maker)
+[2026-02-04T09:31:17.996Z]    Position: UP=510, DOWN=510 | Balanced: 510 | Cost: $503.21 | Settlement: $510.00 | P&L: $6.79 | Remaining: $25.29
+[2026-02-04T09:31:18.011Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.30)
+[2026-02-04T09:31:18.011Z]    📝 POST: 10 @ 0.43
+[2026-02-04T09:31:18.262Z]    ✅ FILLED: 10/10 @ 0.43
+[2026-02-04T09:31:18.262Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:18.262Z]    Position: UP=510, DOWN=520 | Balanced: 510 | Cost: $507.51 | Settlement: $510.00 | P&L: $2.49 | Remaining: $20.99
+[2026-02-04T09:31:18.325Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.60)
+[2026-02-04T09:31:18.325Z]    📝 POST: 10 @ 0.56
+[2026-02-04T09:31:18.576Z]    ✅ FILLED: 10/10 @ 0.56
+[2026-02-04T09:31:18.576Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:18.576Z]    Position: UP=520, DOWN=520 | Balanced: 520 | Cost: $513.11 | Settlement: $520.00 | P&L: $6.89 | Remaining: $15.39
+[2026-02-04T09:31:18.593Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.30)
+[2026-02-04T09:31:18.593Z]    📝 POST: 10 @ 0.43
+[2026-02-04T09:31:18.844Z]    🚫 CANCELLED: 10 @ 0.43
+[2026-02-04T09:31:18.844Z]    ❌ NOT FILLED @ 0.43
+[2026-02-04T09:31:18.844Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:18.844Z]    Position: UP=520, DOWN=520 | Balanced: 520 | Cost: $513.11 | Settlement: $520.00 | P&L: $6.89 | Remaining: $15.39
+[2026-02-04T09:31:19.102Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.30)
+[2026-02-04T09:31:19.103Z]    📝 POST: 10 @ 0.43
+[2026-02-04T09:31:19.353Z]    🚫 CANCELLED: 10 @ 0.43
+[2026-02-04T09:31:19.353Z]    ❌ NOT FILLED @ 0.43
+[2026-02-04T09:31:19.353Z]    📊 BATCH RESULT: 0/10 filled
+[2026-02-04T09:31:19.353Z]    Position: UP=520, DOWN=520 | Balanced: 520 | Cost: $513.11 | Settlement: $520.00 | P&L: $6.89 | Remaining: $15.39
+[2026-02-04T09:31:19.394Z] 🔴 BATCH DOWN: 1 x 10 shares = 10 total (est. $4.30)
+[2026-02-04T09:31:19.395Z]    📝 POST: 10 @ 0.43
+[2026-02-04T09:31:19.645Z]    ✅ FILLED: 10/10 @ 0.43
+[2026-02-04T09:31:19.645Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:19.645Z]    Position: UP=520, DOWN=530 | Balanced: 520 | Cost: $517.41 | Settlement: $520.00 | P&L: $2.59 | Remaining: $11.09
+[2026-02-04T09:31:19.668Z] 🟢 BATCH UP: 1 x 10 shares = 10 total (est. $5.60)
+[2026-02-04T09:31:19.668Z]    📝 POST: 10 @ 0.56
+[2026-02-04T09:31:19.806Z] 🔴 POST DOWN: 7 shares @ 0.43 (bid)
+[2026-02-04T09:31:19.918Z]    ✅ FILLED: 10/10 @ 0.56
+[2026-02-04T09:31:19.918Z]    📊 BATCH RESULT: 10/10 filled
+[2026-02-04T09:31:19.918Z]    Position: UP=530, DOWN=530 | Balanced: 530 | Cost: $523.01 | Settlement: $530.00 | P&L: $6.99 | Remaining: $5.49
+[2026-02-04T09:31:20.056Z]    🚫 CANCELLED: DOWN 7 shares (unfilled portion)
+[2026-02-04T09:31:20.056Z]    ❌ NOT FILLED: DOWN order cancelled
+[2026-02-04T09:31:20.056Z]    Position: UP=527, DOWN=527 | Balanced: 527 | Cost: $520.44 | Settlement: $527.00 | P&L: $6.56 | Remaining: $7.05
+[2026-02-04T09:31:21.978Z] 🔴 POST DOWN: 5 shares @ 0.43 (bid)
+[2026-02-04T09:31:22.090Z] 🔴 POST DOWN: 7 shares @ 0.43 (bid)
+[2026-02-04T09:31:22.228Z]    ✅ FILLED: DOWN 4/5 @ 0.43 (maker)
+[2026-02-04T09:31:22.228Z]    🚫 CANCELLED: DOWN 1 shares (unfilled portion)
+[2026-02-04T09:31:22.228Z]    Position: UP=530, DOWN=534 | Balanced: 530 | Cost: $524.73 | Settlement: $530.00 | P&L: $5.27 | Remaining: $3.77
+[2026-02-04T09:31:22.310Z] 🟢 POST UP: 4 shares @ 0.56 (bid)
+[2026-02-04T09:31:22.340Z]    ✅ FILLED: DOWN 7/7 @ 0.43 (maker)
+[2026-02-04T09:31:22.341Z]    Position: UP=527, DOWN=534 | Balanced: 527 | Cost: $523.45 | Settlement: $527.00 | P&L: $3.55 | Remaining: $4.04
+[2026-02-04T09:31:22.561Z]    ✅ FILLED: UP 4/4 @ 0.56 (maker)
+[2026-02-04T09:31:22.561Z]    Position: UP=534, DOWN=534 | Balanced: 534 | Cost: $526.97 | Settlement: $534.00 | P&L: $7.03 | Remaining: $1.53
+[2026-02-04T09:31:22.620Z] 🔴 POST DOWN: 1 shares @ 0.43 (bid)
+[2026-02-04T09:31:22.621Z] 🟢 POST UP: 7 shares @ 0.56 (bid)
+[2026-02-04T09:31:22.870Z]    ✅ FILLED: DOWN 1/1 @ 0.43 (maker)
+[2026-02-04T09:31:22.870Z]    Position: UP=534, DOWN=535 | Balanced: 534 | Cost: $527.40 | Settlement: $534.00 | P&L: $6.60 | Remaining: $1.10
+[2026-02-04T09:31:22.871Z]    ✅ FILLED: UP 7/7 @ 0.56 (maker)
+[2026-02-04T09:31:22.871Z]    Position: UP=534, DOWN=534 | Balanced: 534 | Cost: $527.37 | Settlement: $534.00 | P&L: $6.63 | Remaining: $0.12
+[2026-02-04T09:31:23.003Z] 🟢 POST UP: 1 shares @ 0.55 (bid)
+[2026-02-04T09:31:23.254Z]    🚫 CANCELLED: UP 1 shares (unfilled portion)
+[2026-02-04T09:31:23.254Z]    ❌ NOT FILLED: UP order cancelled
+[2026-02-04T09:31:23.254Z]    Position: UP=534, DOWN=535 | Balanced: 534 | Cost: $527.40 | Settlement: $534.00 | P&L: $6.60 | Remaining: $1.10
+[2026-02-04T09:31:23.410Z] 🟢 POST UP: 1 shares @ 0.55 (bid)
+[2026-02-04T09:31:23.661Z]    ✅ FILLED: UP 1/1 @ 0.55 (maker)
+[2026-02-04T09:31:23.661Z]    Position: UP=535, DOWN=535 | Balanced: 535 | Cost: $527.95 | Settlement: $535.00 | P&L: $7.05 | Remaining: $0.55
+[2026-02-04T09:45:03.840Z] 💰 SETTLEMENT: Balanced=535 shares | Payout: $535.00 | Cost: $527.95 | Profit: $7.05
+[2026-02-04T09:45:03.840Z] 💵 NEW BALANCE: $535.55 (Initial $500 + Total Profit $35.55)
+[2026-02-04T09:45:03.840Z] ========================================
+[2026-02-04T09:45:07.272Z] 💰 SETTLEMENT: Balanced=534 shares | Payout: $534.00 | Cost: $527.37 | Profit: $6.63
+[2026-02-04T09:45:07.272Z] 💵 NEW BALANCE: $534.12 (Initial $500 + Total Profit $34.12)
+[2026-02-04T09:45:07.272Z] ========================================
