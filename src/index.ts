@@ -34,7 +34,7 @@ async function waitForNextMarketStart(): Promise<void> {
         `Waiting for next 15m market start: ${Math.ceil(ms / 1000)}s (start at next boundary)`
     );
     await new Promise((resolve) => setTimeout(resolve, ms));
-    logger.success("Next 15m market started — starting bot now");
+    logger.info("Next 15m market started — starting bot now");
 }
 
 async function waitMs(ms: number, label: string): Promise<void> {
@@ -77,7 +77,7 @@ async function main() {
         logger.info(
             `waitForMinimumUsdcBalance ==> ok=${ok} available=${available} allowance=${allowance} balance=${balance}`
         );
-        logger.success("Wallet is funded");
+        logger.info("Wallet is funded");
         // Next step:
         if (config.bot.waitForNextMarketStart) {
             await waitForNextMarketStart();

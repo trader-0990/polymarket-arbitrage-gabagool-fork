@@ -158,7 +158,7 @@ async function redeemMarketWithProxy(
     
     const receipt = await txn.wait();
     
-    logger.success(`✅ Successfully redeemed ${conditionId}`);
+    logger.info(`✅ Successfully redeemed ${conditionId}`);
     logger.info(`Transaction confirmed in block ${receipt.blockNumber}`);
     logger.info(`Gas used: ${receipt.gasUsed.toString()}`);
     
@@ -352,7 +352,7 @@ async function main() {
             if (dryRun) {
                 logger.info(`Would redeem: ${resolvedCount} market(s)`);
             } else {
-                logger.success(`Successfully redeemed: ${redeemedCount} market(s)`);
+                logger.info(`Successfully redeemed: ${redeemedCount} market(s)`);
                 if (failedCount > 0) {
                     logger.warning(`Failed: ${failedCount} market(s)`);
                 }

@@ -201,7 +201,7 @@ export async function waitForMinimumUsdcBalance(
             }
 
             if (ok) {
-                logger.success(
+                logger.info(
                     `USDC gate passed: available=${available.toFixed(6)} >= ${minimumUsd}`
                 );
                 return { ok: true, available, balance, allowance };

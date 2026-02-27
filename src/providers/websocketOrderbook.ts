@@ -153,7 +153,7 @@ export class WebSocketOrderBook {
             this.ws = new WebSocket(fullUrl);
 
             this.ws.on("open", () => {
-                logger.success(`WebSocket connected (${this.channelType} channel)`);
+                logger.info(`WebSocket connected (${this.channelType} channel)`);
                 this.isConnected = true;
                 this.reconnectAttempts = 0;
 

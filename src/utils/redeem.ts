@@ -336,9 +336,9 @@ export async function redeemPositions(options: RedeemOptions): Promise<any> {
         // Wait for transaction to be mined
         const receipt = await tx.wait();
         
-        logger.success(`Transaction confirmed in block ${receipt.blockNumber}`);
+        logger.info(`Transaction confirmed in block ${receipt.blockNumber}`);
         logger.info(`Gas used: ${receipt.gasUsed.toString()}`);
-        logger.success("\n=== REDEEM COMPLETE ===");
+        logger.info("\n=== REDEEM COMPLETE ===");
 
         return receipt;
     } catch (error: any) {
@@ -851,7 +851,7 @@ export async function autoRedeemResolvedMarkets(options: {
                         );
                         
                         redeemedCount++;
-                        logger.success(`✅ Successfully redeemed ${conditionId}`);
+                        logger.info(`✅ Successfully redeemed ${conditionId}`);
                         
                         // Automatically clear holdings after successful redemption
                         // (tokens have been redeemed, so they're no longer in holdings)
@@ -1257,7 +1257,7 @@ export async function redeemAllWinningMarketsFromAPI(options?: {
                             });
                             
                             redeemedCount++;
-                            logger.success(`✅ Successfully redeemed ${conditionId}`);
+                            logger.info(`✅ Successfully redeemed ${conditionId}`);
                             
                             // Automatically clear holdings after successful redemption
                             try {
@@ -1326,7 +1326,7 @@ export async function redeemAllWinningMarketsFromAPI(options?: {
         if (options?.dryRun) {
             logger.info(`Would redeem: ${withWinningTokensCount} market(s)`);
         } else {
-            logger.success(`Successfully redeemed: ${redeemedCount} market(s)`);
+            logger.info(`Successfully redeemed: ${redeemedCount} market(s)`);
             if (failedCount > 0) {
                 logger.warning(`Failed: ${failedCount} market(s)`);
             }

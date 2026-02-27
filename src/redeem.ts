@@ -105,7 +105,7 @@ async function main() {
         // Use the simple redeemMarket function
         const receipt = await redeemMarket(conditionId);
 
-        logger.success("\n✅ Successfully redeemed positions!");
+        logger.info("\n✅ Successfully redeemed positions!");
         logger.info(`Transaction hash: ${receipt.transactionHash}`);
         logger.info(`Block number: ${receipt.blockNumber}`);
         logger.info(`Gas used: ${receipt.gasUsed.toString()}`);
